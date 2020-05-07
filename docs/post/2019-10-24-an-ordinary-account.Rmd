@@ -3,9 +3,6 @@ title: An ordinary account
 author: Danielle Navarro
 date: '2019-10-24'
 slug: an-ordinary-account
-categories: []
-tags: []
-colourscheme: "css/palette_kunoichi.css"
 summary: "In which I admit that I do have opinions on what social and political rights a person such as myself deserves."
 ---
 
