@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>academia on Essays by Danielle Navarro</title>
+    <link>/tags/academia/</link>
+    <description>Recent content in academia on Essays by Danielle Navarro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>52 pickup</title>
+      <link>/post/52-pickup/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/52-pickup/</guid>
+      <description>On the strangeness of being a trans woman in academia.</description>
+    </item>
+    
+  </channel>
+</rss>
