@@ -10,16 +10,16 @@ html {
 body {
   color: rgba(0, 0, 0, 0.5);
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   width: 100%;
   margin: 0 auto 30px auto;
   background-color: #fff;
 }
 
 p {
-  line-height: 1.9em;
+  line-height: 1.8em;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 a {
