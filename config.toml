@@ -60,9 +60,9 @@ url = "https://github.com/djnavarro"
   weight = 100
   url = "/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+#  [[menu.main]]
+#  name = "Posts"
+#  weight = 200
+#  identifier = "posts"
+#  url = "/post/"
 
