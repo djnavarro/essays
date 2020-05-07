@@ -55,8 +55,8 @@ url = "https://github.com/djnavarro"
 [menu]
 
   [[menu.main]]
-  name = "Home"
-  identifier = "home"
+  name = "Essays"
+  identifier = "essays"
   weight = 100
   url = "/"
 
