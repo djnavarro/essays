@@ -3,6 +3,7 @@ title: 52 pickup
 author: Danielle Navarro
 date: '2019-01-24'
 slug: 52-pickup
+type: post
 summary: "A short, disjointed essay on the strangeness of being a trans woman in academia, narrated honestly but with deliberate ambiguity."
 ---
 
