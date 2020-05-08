@@ -3,7 +3,14 @@
     <meta charset="utf-8">
     {{- hugo.Generator -}}
     <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    
     <meta name="description" content="{{ .Site.Params.description }}">
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:creator" content="@djnavarro"/>
+    <meta name="twitter:site" content="@djnavarro"/>
+    <meta name="twitter:image:src" content="http://essays.djnavarro.net/images/profile.jpg"/>
+    <meta name="og:image" content="http://essays.djnavarro.net/images/profile.jpg"/>
+    
     <link rel="stylesheet" href="{{ `css/style.css` | absURL }}" type="text/css">
     {{ range .Site.Params.customCss -}}
     <link rel="stylesheet" href="{{ . | absURL }}" type="text/css">
