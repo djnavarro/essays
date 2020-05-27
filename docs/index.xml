@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essays on Essays by Danielle Navarro</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Essays on Essays by Danielle Navarro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Handover document</title>
+      <link>/handover/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/handover/</guid>
+      <description>what</description>
+    </item>
     
     <item>
       <title>An ordinary account</title>
@@ -26,7 +35,7 @@
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/52-pickup/</guid>
-      <description>A short, disjointed essay on the strangeness of being a trans woman in academia, narrated honestly but with deliberate ambiguity.</description>
+      <description>A short, disjointed essay on the strangeness of being a trans woman in academia.</description>
     </item>
     
   </channel>
