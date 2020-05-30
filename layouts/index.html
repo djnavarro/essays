@@ -6,7 +6,6 @@
     {{ else }}
         <h3 class="inline current-page">Page {{.Paginator.PageNumber}}</h3>
     {{ end }}
-    <br>
 
     {{- partial "listcontent.html" . -}}
     {{- partial "pagination.html" . -}}
