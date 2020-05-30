@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Essays on Essays by Danielle Navarro</title>
+    <title>Essays :: Danielle Navarro</title>
     <link>/</link>
-    <description>Recent content in Essays on Essays by Danielle Navarro</description>
+    <description>Recent content on Essays :: Danielle Navarro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,28 @@
     
     <item>
       <title>Still the same</title>
-      <link>/still-the-same/</link>
+      <link>/post/still-the-same/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/still-the-same/</guid>
+      <guid>/post/still-the-same/</guid>
       <description>I am haunted by a terribly pedestrian phrase.</description>
     </item>
     
     <item>
       <title>An ordinary account</title>
-      <link>/an-ordinary-account/</link>
+      <link>/post/an-ordinary-account/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/an-ordinary-account/</guid>
+      <guid>/post/an-ordinary-account/</guid>
       <description>A long piece on transgender rights, in which I admit that I do have opinions on what social and political considerations a person such as myself deserves. The central claim is that transgender rights can be justified on their own terms, pragmatically, without requiring any recourse to strong metaphysical claims about the nature of gender identity.</description>
     </item>
     
     <item>
       <title>52 pickup</title>
-      <link>/52-pickup/</link>
+      <link>/post/52-pickup/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/52-pickup/</guid>
+      <guid>/post/52-pickup/</guid>
       <description>A short, disjointed essay on the strangeness of being a trans woman in academia.</description>
     </item>
     

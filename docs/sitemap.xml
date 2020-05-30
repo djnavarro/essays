@@ -8,17 +8,22 @@
   </url>
   
   <url>
-    <loc>/still-the-same/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/an-ordinary-account/</loc>
+    <loc>/post/still-the-same/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/an-ordinary-account/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/52-pickup/</loc>
+    <loc>/post/52-pickup/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
   </url>
   
