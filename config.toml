@@ -2,7 +2,7 @@ baseURL = "https://essays.djnavarro.net"
 languageCode = "en-us"
 title = "Essays :: Danielle Navarro"
 theme = "hugo-rocinante"
-paginate = 3
+paginate = 10
 summaryLength = 0
 publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   mainSections = ["post"]
   email = ""
   favicon = ""
-  about = ""
+  about = "Miscellaneous personal writings by [Danielle Navarro](https://djnavarro.net). More of a personal journal than anything else. Sometimes I write essays in the sense of short pieces of writing on a specific subjects. At other times, posts are simply essays in the sense of being attempts or tries to do or say something. Often emotional."
 #  [[params.links]]
 #    [[params.links.link]]
 #      name = "Essays"

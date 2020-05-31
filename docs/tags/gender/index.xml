@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gender on Essays :: Danielle Navarro</title>
+    <link>/tags/gender/</link>
+    <description>Recent content in gender on Essays :: Danielle Navarro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ain&#39;t I a woman?</title>
+      <link>/post/aint-i-a-woman/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/aint-i-a-woman/</guid>
+      <description>Idle reflections on a question that I don&amp;rsquo;t think makes any sense, yet has so many real world consequences for me.</description>
+    </item>
+    
+  </channel>
+</rss>
