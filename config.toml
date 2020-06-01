@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   mainSections = ["post"]
   email = ""
   favicon = ""
-  about = "Miscellaneous personal writings by [Danielle Navarro](https://djnavarro.net). More of a personal journal than anything else. Sometimes I write essays in the sense of short pieces of writing on a specific subjects. At other times, posts are simply essays in the sense of being attempts or tries to do or say something. Often emotional."
+  about = "Miscellaneous writings by [Danielle Navarro](https://djnavarro.net). This site is more a personal journal than anything else. Sometimes I write 'essays' in the sense of short pieces of writing on a specific subjects, but more often my posts are 'essays' in the sense that they are tries or attempts at something. Rarely coherent, often emotional, and I wonder at times why I don't hide this site entirely from view."
 #  [[params.links]]
 #    [[params.links.link]]
 #      name = "Essays"
