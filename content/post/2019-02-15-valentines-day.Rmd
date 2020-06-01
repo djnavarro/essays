@@ -3,12 +3,6 @@ title: "Valentines day"
 author: Danielle Navarro
 date: '2019-02-15'
 slug: valentines-day
-summary: "An post about unpleasant things. Content warning for sexual assault."
-categories: []
-tags: []
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 This is not a post I want to write. It is not a story I want to tell. It is not a story I want you to read. I am ashamed to put words to it, scared to say "me too". 

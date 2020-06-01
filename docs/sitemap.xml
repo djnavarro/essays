@@ -58,22 +58,16 @@
   </url>
   
   <url>
-    <loc>/tags/gender/</loc>
-    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/52-pickup/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

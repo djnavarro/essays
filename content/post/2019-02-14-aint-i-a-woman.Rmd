@@ -3,12 +3,6 @@ title: Ain't I a woman?
 author: Danielle Navarro
 date: '2019-02-14'
 slug: aint-i-a-woman
-tags: ["gender"]
-summary: "Idle reflections on a question that I don't think makes any sense, yet has so many real world consequences for me."
-colourscheme: "css/palette_dark.css"
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 For the longest time, one of my favourite lines in feminist history came from Sojourner Truth's 1851 speech, [Ain't I A Woman?](https://en.wikipedia.org/wiki/Ain%27t_I_a_Woman%3F)

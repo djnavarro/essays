@@ -4,7 +4,6 @@ author: Danielle Navarro
 date: '2020-05-27'
 slug: still-the-same
 type: post
-summary: "I am haunted by a terribly pedestrian phrase."
 ---
 
 I am haunted by a terribly pedestrian phrase. "You're still the same person". It is a phrase offered with kindness, as a reassurance of sorts, usually on those occasions when the subject of my gender transition arises. It's an expression of support. How you appear to the outside world may have changed, my interlocutor concedes, but on the inside you're still the same person I've always known and liked all these years. The unspoken implication hangs in the air: things will remain the same.

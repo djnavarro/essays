@@ -3,11 +3,6 @@ title: Eighty-three, sooner or later
 author: Danielle Navarro
 date: '2019-09-30'
 slug: eighty-three-sooner-or-later
-summary: "A lot of content warnings on this one"
-categories: []
-tags: []
-header: 
-  image: "img/headers/chain-link-fence.jpeg"
 ---
 
 <p align="center">[rape, alcoholism, self harm]</p>
