@@ -3,6 +3,7 @@ title: Eighty-three, sooner or later
 author: Danielle Navarro
 date: '2019-09-30'
 slug: eighty-three-sooner-or-later
+summary: "I don't quite know where this story begins. I've struggled with depression and anxiety for as long as I can remember, so much so that they feel like an inalienable part of who I am."
 ---
 
 <p align="center">[rape, alcoholism, self harm]</p>

@@ -3,9 +3,10 @@ title: "Valentines day"
 author: Danielle Navarro
 date: '2019-02-15'
 slug: valentines-day
+summary: "This is not a post I want to write. It is not a story I want to tell. It is not a story I want you to read. I am ashamed to put words to it, scared to say \"me too\"."
 ---
 
-This is not a post I want to write. It is not a story I want to tell. It is not a story I want you to read. I am ashamed to put words to it, scared to say "me too". 
+This is not a post I want to write. It is not a story I want to tell. It is not a story I want you to read. I am ashamed to put words to it, scared to say "me too."
 
 I have so many reasons not to write this. My inbox is overflowing. Deadlines are rolling past. I have so many things that give me joy, in my work and in my home, that I could focus on instead. I could write about my excitement about the Aarhus open science workshop I've been invited to, or the satRday workshop in Johannesburg. I could write about my joy at the simple act of taking my kids places they want to go.
 

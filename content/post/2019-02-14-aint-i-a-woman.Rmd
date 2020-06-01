@@ -3,6 +3,7 @@ title: Ain't I a woman?
 author: Danielle Navarro
 date: '2019-02-14'
 slug: aint-i-a-woman
+summary: "For the longest time one of my favourite lines in feminist history came from the famous speech by Sojourner Truth. I learned recently that my understanding of the speech was mistaken, and have been pondering what lessons I should take from that."
 ---
 
 For the longest time, one of my favourite lines in feminist history came from Sojourner Truth's 1851 speech, [Ain't I A Woman?](https://en.wikipedia.org/wiki/Ain%27t_I_a_Woman%3F)
