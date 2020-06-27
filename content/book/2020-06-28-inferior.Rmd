@@ -1,0 +1,42 @@
+---
+title: Inferior
+author: Danielle Navarro
+date: '2020-06-27'
+slug: inferior
+summary: "Notes on \"Inferior\" by Angela Saini"
+type: post
+---
+
+Angela Saini (2017). *Inferior*. 4th Estate
+
+This is a short, pleasant review with a long, unpleasant footnote. 
+
+Let's start with the short pleasant review. *Inferior* is a really good book. There is a very long tradition of "scientific sexism" in academia. Our society is historically (and still remains) a patriarchal one, and academia is no different to the rest of the society. Men have dominated the scientific literature, and the hypotheses they have chosen to put forward and test regarding sex differences among humans are by no means an unbiased collection of ideas. What Saini does with *Inferior* is provide a broad (but necessarily shallow) coverage of a variety of different subjects in science in which early work---conducted almost exclusively by men---suggested that women were in some sense the inferior sex, and in which more recent work---mostly but not exclusively by women---has suggested that it is not so. 
+
+Across many areas the book does a good job of highlighting the fact that there are of course some biological sex differences, but these are often much smaller than most of us were taught to believe, and there are many cases in which the truth appears to be too complicated to fit into any simple narrative. A good example of the latter is the "women get sicker, men die quicker" concept, in which women seem more prone to illness than men, but ultimately are more likely to survive those illnesses and live longer. There isn't a "better sex" or a "worse sex" in this story, and ultimately across the whole book that is the overarching narrative. Overall, I really enjoyed it.
+
+---
+
+Now for the long unpleasant footnote. 
+
+Every time I read a book about feminism, sex and gender written by a cisgender person, I make it a point to see if the book mentions transgender people at all, and if they do, examine how we are discussed. Many books fail to even mention us, erasing our existence and our struggles entirely. Many books are hostile to transgender people, sometimes explicitly and sometimes implicitly. Unfortunately, *Inferior* is the rare example of a book that is both hostile to and erasing of transgender people.
+
+This might seem a little odd to the cisgender reader. After all, *Inferior* is not a book about transgender people. Nor for that matter is it a book about intersex people. If it's not about us, why on earth would I express such reservations? However, if you take it upon yourself to write a book discussing the science of sex differences, the origins of gender, both populations are necessarily somewhat relevant, and care is required in how a white cisgender woman writes about these groups. Not being intersex I ought not hold any opinions on Saini's coverage of intersex people. Being transgender, however, I will express my---rather negative, I'm afraid---view on how she discusses transgender people. 
+
+It is striking to me that Saini takes considerable care never to mention us. She refers to gender identity only in the most oblique of terms. Worse, when she does so, she does not do us any kindnesses. I cannot tell if this is mere thoughtlessness or poorly masked ill-intent, but there is something here that needs an explanation. To illustrate, here is how Saini introduces the sex/gender distinction on p37-38
+
+> In academic circles at least, gender and sex are now recognised as two different things. Sex is something scientifically distinct for most people. It's defined by a package of genes and hormones, as well as more obvious physical features, including a person's genitals and gonads (although a small proportion of people are biologically intersex). Gender, meanwhile, is a social identity, influenced not only by biology, but also by external factors such as upbringing, culture and the effect of stereotypes. It's defined by what the world tells us is masculine and feminine, and this makes it potentially fluid. There are many for whom their biological sex and their gender aren't the same.
+
+There are some red flags in this passage. The first of them is the frame that assumes biological sex is fixed, scientific, and discrete; while gender is mere social stereotypes. Gender can be influenced by sex, but sex cannot be influenced by gender. My estrogen/progesterone induced breasts and I have now had discussion on this subject and concluded that this makes no sense whatsoever. There are a lot of "unspoken words" here and they are not very kind.
+
+The second flag for me is that transgender people are referred to in that final sentence but unlike intersex people we are not even accorded the common courtesy of being given a name. In fact, the book never once mentions transgender people by name. Despite our obvious relevance to the topic (perhaps there is some value in looking at a population of people who have chosen long-term hormone replacement therapy, for example?), we are referred to in *Inferior* only by allusion. We barely even exist.
+
+If we take Saini's writing at face value, what does she think a person like me *is*? The passage above does not say anything specific, but it lays out enough of her premises that anyone with a modest intellect can derive the conclusions that follow. It does not take a great mind to notice the rather unpleasant implication that in Saini's framing I am a man who "identifies as" a woman. This is the exact framing that has run through British anti-trans feminism for many years now. It is a dogwhistle.
+
+There is only one other passage in the book (that I can find) that acknowledges our existence. It appears on p81, and it is more overt in its language but Saini carefully ensures that the words are placed in the mouth of psychology professor Melissa Hines. When discussing Hines' comments on sex differences, Saini writes:
+
+> She chooses her words carefully. 'We've looked at a variety of behaviours,' she begins. Her findings reveal three areas that show a statistically marked difference. Starting with the obvious first, 'for gender identity the differences are huge. Most men think of themselves as men and most women don't'
+
+When I first read this I thought to myself that this time around Saini has spoken the quiet part out loud. Saini asserts explicitly that I am a man who thinks of himself as a woman. Except, on closer reading ... no she doesn't, she *quoted Hines* saying that. So it must be Hines making the rather nasty comment, and we cannot attribute any such belief to Saini herself. I am skeptical of this interpretation. My guess is that during the interview Hines was speaking extemporaneously during an interview and accidentally framed this sentence poorly. That happens a lot when people talk. A good writer---having all the time in the world to think about the wording---knows how to pick and choose the quotes that they need, and tries to compensate for the real time limitations of the speaker. The decision to quote Hines in this fashion is deliberate. Saini is a journalist and knows perfectly well how to do this. In this passage she goes out of her way to note that Hines is "speaking carefully", before immediately using this rather hostile quote which Saini refers to as "the obvious" truth about transgender identities. 
+
+It reads to me as if Saini is trying to disavow any agency of her own, while very deliberately leading the reader to a particular conclusion and I cannot help but ask why this is. The words come from Hines mouth, but reading *Inferior* as a transgender woman it is hard not to wonder if the intent comes from Saini's mind.
