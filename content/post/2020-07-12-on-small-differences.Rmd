@@ -3,19 +3,21 @@ title: On small differences, academics, and biological sex
 author: Danielle Navarro
 date: '2020-07-12'
 slug: on-small-differences
-summary: "There is a strange kind of intellectual panic that academics are vulnerable to, whenever the subject of transgender rights comes up. People who might under normal circumstances speak in a careful and measured fashion suddenly become prone to wild exaggeration and reckless generalisations. I am genuinely baffled as to why this happens, but I have some hypotheses."
+summary: "There is a strange kind of intellectual myopia that academics are vulnerable to whenever the subject of transgender rights comes up. People who might under normal circumstances speak in a careful and measured fashion suddenly become prone to wild exaggeration and reckless generalisations. I am genuinely baffled as to why this happens, but I have some hypotheses."
 type: post
 ---
 
-There is a strange kind of intellectual panic that academics are vulnerable to, whenever the subject of transgender rights comes up. People who might under normal circumstances speak in a careful and measured fashion suddenly become prone to wild exaggeration and reckless generalisations. I am genuinely baffled as to why this happens, but I have some hypotheses.
+There is a strange kind of intellectual myopia that academics are vulnerable to whenever the subject of transgender rights comes up. People who might under normal circumstances speak in a careful and measured fashion suddenly become prone to wild exaggeration and reckless generalisations. I am genuinely baffled as to why this happens, but I have some hypotheses.
 
 <p align="center">::::</p>
 
-An email appeared in my work inbox this afternoon, forwarding [an article](https://www.theaustralian.com.au/inquirer/few-female-engineers-its-a-matter-of-choice/news-story/5c9a4d58ddf7656a0920d597d413339b) published in *The Australian* newspaper. The authors are academics and they self-identify as Madeleine Beekman, a "professor of evolutionary biology at the University of Sydney", and Bill von Hippel, a "professor of evolutionary psychology at the University of Queensland". The article begins with this passage:
+An email appeared in my work inbox this afternoon, forwarding [an article](https://www.theaustralian.com.au/inquirer/few-female-engineers-its-a-matter-of-choice/news-story/5c9a4d58ddf7656a0920d597d413339b) published in *The Australian* newspaper. When I read the article I was angry at first, then miserable, and then frustrated. Angry because of something the article says, miserable because it was sent to me, and then frustrated because I couldn't work out how to explain "what the problem is" in a simple way. This post is my attempt to do so. 
+
+Although the article is published in a national newspaper, the authors are academics and they self-identify as Madeleine Beekman, a "professor of evolutionary biology at the University of Sydney", and Bill von Hippel, a "professor of evolutionary psychology at the University of Queensland". The article begins with this passage:
 
 > The Australian Academy of Sciences recently changed its definition of a woman. According to the new definition, anyone who identifies as a woman is a woman, regardless of their biological sex.
 
-What this passage refers to is the fact that AAS recently announced a policy of classifying transgender women such as myself as women for administrative purposes, rather than as men as we would traditionally have been treated. It goes on to acknowledge that this is a good thing to do:
+What this passage refers to is the fact that the Australian Academy of Sciences (AAS) recently announced a policy of classifying transgender women -- such as myself -- *as* women for some administrative purposes, rather than as men as we would traditionally have been treated. The article even goes on to suggest that this is a good thing:
 
 >This definition has the clear advantage that people who don’t identify with their biological sex will now be recognised as their preferred gender, an obvious social justice issue.
 
@@ -27,11 +29,11 @@ The article then pivots away from transgender women entirely. The vast majority 
 
 Oooookay. 
 
-As a scientist as well as a transgender woman, I confess that I am puzzled (and more than a little annoyed) by that last sentence. Allow me to repeat it with emphasis:
+As a scientist as well as a transgender woman, I confess that I am puzzled and more than a little annoyed by that last sentence. Allow me to repeat it with emphasis:
 
 > However, with this new definition of woman, the academy is tacitly stating that **biological sex is of no significance**. 
 
-This is patently absurd, and if I hadn't seen this kind of ridiculous exaggeration from academics so very many times before I would be surprised that intelligent people would make this error. When I point out that this is an utterly unreasonable thing to say, I am met with a kind of blank surprise and defensiveness so complete that I don't know how to address it. Cisgender academics appear to be genuinely shocked that I would say this. They literally cannot understand what that sentence is a nonsense.
+This is patently absurd, and if I hadn't seen this kind of ridiculous exaggeration from academics so very many times before I would be surprised that intelligent people would make this error. When I point out that this is an utterly unreasonable thing to say, I am met with a kind of blank surprise and defensiveness so complete that I don't know how to address it. Cisgender academics appear to be genuinely shocked that I would say this. They literally cannot understand why that sentence is a nonsense.
 
 So I suppose I had best explain why it is a nonsense. I wish I did not have to. I am very, very tired of this silliness.
 
@@ -39,11 +41,11 @@ So I suppose I had best explain why it is a nonsense. I wish I did not have to. 
 
 Let us start at the beginning. 
 
-Suppose for the moment that AAS had not adopted a trans-inclusive definition. Suppose they had decided to exclude transgender women, and treat "woman" as a purely biological category. As scientists perhaps they might have chosen to define "woman" in chromosomal terms: people with XX chromosomes are deemed women for administrative purposes and people with XY chromosomes are deemed men. This definition mostly (but not completely) agrees with our everyday concept of "men and women". Biology -- like any complex system -- is somewhat messy, and a small proportion of the populace are intersex, and their identities are less easy to classify using this kind of simplistic rule. 
+Suppose for the moment that AAS had not adopted a trans-inclusive definition. Suppose they had decided to exclude transgender women, and treat "woman" as a purely biological category. As scientists perhaps they might have chosen to define "woman" in chromosomal terms: people with XX chromosomes are deemed women for administrative purposes and people with XY chromosomes are deemed men. This definition mostly agrees with our everyday concept of "men and women", but not entirely. Biology -- like any complex system -- is somewhat messy, and a small proportion of the populace are intersex. Their identities are less easy to classify using simplistic rule, and so in practice more care is required.
 
-Even so, there aren't very many intersex people (about 1-2% of the population), so a simplistic biological approach that assigned people to categories based on (say) chromosomes would maybe be about 98% accurate. That's actually a pretty decent classification rate and in most classification contexts we'd probably be happy to classify anything with that kind of success rate.
+Of course, there aren't very many intersex people, only about 1-2% of the population. Because of this, even a crude biological approach that assigned people to categories based on chromosomes would maybe be about 98% accurate when assigning people to gender categories. Viewed as an abstraction this is actually a pretty decent classification rate: in most classification contexts we'd probably be happy to classify anything with that kind of success rate.
 
-However, because we are not jerks we recognise that a little care is needed. The rights of of intersex persons are *important* so rather than rigidly insisting on a too-simple rule we aim to be flexible. In most circumstances our approach is to allow intersex people to be treated as members of the category they feel is most appropriate. It is rare for academics who believe in biological sex categories to start wringing their hands and  boldly proclaim that the words "man" and "woman" have fundamentally changed their definition merely because intersex people exist and are given reasonable accommodations. 
+However, because we are not jerks we recognise that a little care is needed. The rights of of intersex persons are *important* so rather than rigidly insisting on a too-simple rule we aim to be flexible. In most circumstances our approach is to allow intersex people to be treated as members of the category they feel is most appropriate. It is rare for academics who believe in the importance of biological sex categories to start wringing their hands and  boldly proclaim that the words "man" and "woman" have fundamentally changed their definition merely because intersex people exist and are given reasonable accommodations. 
 
 Why, that would be *absurd*.
 
@@ -57,7 +59,7 @@ Dear reader, you are not foolish and I know that you can see where I'm going wit
 
 Suppose we now consider what happens when we adopt a trans-inclusive definition of gender categories, as the AAS has done. Transgender people are also a very small minority. Estimates vary, but 1% is probably a reasonable number. Even with the recent destigmatisation of transgender people, very few people who were assigned male at birth will choose to live as a woman. Very few people assigned female at birth choose to live as a man. Some people choose to reject both categories and identify as nonbinary, but again their numbers are few. 
 
-In other words, by adopting a trans-inclusive definition, the accuracy of our chromosome based classifier might decrease from 98% to 97%. If biological (chromosomal) sex was deemed "essential" when it was 98%, why is it suddenly "of no significance" when we adopt a definition that shrinks the accuracy to 97%. 
+In other words, by adopting a trans-inclusive definition, the accuracy of our chromosome based classifier might decrease from 98% to 97%. If biological (chromosomal) sex was deemed "essential" when it was 98%, why on earth is it suddenly "of no significance" when we adopt a definition that shrinks the accuracy to 97%?
 
 Why, that would be *absurd*.
 
@@ -93,11 +95,13 @@ In other words, when we examine the practical consequences of the AAS definition
 
 The second hypothesis I have that might explain the phenomenon is one that every academic will find very familiar: *pedantry*. Academics are notorious sticklers for "the principle of the thing", are prone to dig in when we believe ourselves to be "technically correct" and so on. The pedantry account is subtly different to the blind spot account. According to the blind spot idea, cisgender people simply fail to think about the real world consequences of their ideas. According to the pedantry account, in contrast, they consider these consequences but claim that they are irrelevant. 
 
-Here's how that account would work in this scenario. From a practical standpoint -- given the world we live in -- there is very little difference in how the AAS definition and the traditional one *behave*. They classify people into gender categories in an almost identical fashion, with a mere 1% (give or take) of people making up the discrepancy. But to the pedant, this is not important. To the pedant it is the principle of the thing that matters, and according to (their choice of) principles there is actually a difference between the two rules. Specifically, the traditional definition *explicitly* links gender categories to biological sex whereas the AAS defintion connects sex and gender in an *implicit* way only. In our world as it exists these two rules are almost indistinguishable in practice (though transgender people such as myself have the misfortune to be that 1% of disputed cases). But! But, the pedant exclaims, if the base rates were different then the two rules would behave very differently. If we lived in a world where 40% of people were transgender then there would be quite marked practical differences. Ergo, we must treat this as a matter of importance!
+Here's how that account would work in this scenario. From a practical standpoint -- given the world we live in -- there is very little difference in how the AAS definition and the traditional one *behave*. They classify people into gender categories in an almost identical fashion, with a mere 1% (give or take) of people making up the discrepancy. But to the pedant, this tiny difference in classification accuract is suddenly important! To the pedant it is the principle of the thing that matters, and according to (their choice of) principles there is a philosophical difference between the two rules. Specifically, the traditional definition *explicitly* links gender categories to biological sex whereas the AAS definition connects sex and gender in an *implicit* way only. 
 
-The funny thing is, as a transgender woman who has become incredibly tired of the whole thing, the kind of person who makes this argument also tends to fancy themselves a hard nosed scientists. "Facts don't care about your feelings!" they declare, when dismissing the concerns of transgender people. It is puzzling however, because if scientific facts don't care about feelings, then the actual base rate of transgender people as it exists in this world is also a fact. In the real world, it is a distinction that makes little difference to anyone *except* transgender people. Under the AAS definition our lives are better than under the traditional one. For everyone else, life continues as before. 
+This has implications, but only counterfactually. In our world as it exists these two rules are almost indistinguishable in practice, though transgender people such as myself have the misfortune to be that 1% of disputed cases. But! But, the pedant exclaims, if the base rates were different then the two rules would behave very differently. If we lived in a world where 40% of people were transgender then there would be quite marked practical differences. Ergo, we must treat this as a matter of importance!
 
-It is a weirdly cruel hill to die on.
+The funny thing is, as a transgender woman who has become incredibly tired of the whole thing, the kind of person who makes this argument also tends to fancy themselves a hard nosed scientists. "Facts don't care about your feelings!" they declare, when dismissing the concerns of transgender people. It is puzzling however, because if scientific facts don't care about feelings, then the incredibly low base rate of transgender people as it exists in this world is also a fact. In the real world, it is a distinction that makes little difference to anyone *except* transgender people. Under the AAS definition our lives are better than under the traditional one. For everyone else, life continues as before. 
+
+If it is pedantry that underpins such behaviour, it is a particularly unfortunate kind. To my mind at least this is a weirdly cruel hill on which to die.
 
 <p align="center">::::</p>
 
