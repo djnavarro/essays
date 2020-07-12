@@ -3,45 +3,51 @@ title: On small effects
 author: Danielle Navarro
 date: '2020-07-12'
 slug: on-small-effects
-summary: "A brief comment on the importance of keeping things in perspective."
+summary: "There is a strange kind of intellectual panic that academics are vulnerable to, whenever the subject of transgender rights comes up. People who might under normal circumstances speak in a careful and measured fashion suddenly become prone to wild exaggeration and reckless generalisations. I am genuinely baffled as to why this happens, but I have some hypotheses."
 type: post
 ---
 
-There is a strange kind of intellectual panic that academics are vulnerable to, whenever the subject of transgender women comes up. People who might under normal circumstances speak in a careful and measured fashion suddenly become prone to wild exaggeration and reckless generalisations. I am genuinely baffled as to why this happens. 
+There is a strange kind of intellectual panic that academics are vulnerable to, whenever the subject of transgender rights comes up. People who might under normal circumstances speak in a careful and measured fashion suddenly become prone to wild exaggeration and reckless generalisations. I am genuinely baffled as to why this happens, but I have some hypotheses.
+
+<p align="center">::::</p>
 
 An email appeared in my work inbox this afternoon, forwarding [an article](https://www.theaustralian.com.au/inquirer/few-female-engineers-its-a-matter-of-choice/news-story/5c9a4d58ddf7656a0920d597d413339b) published in *The Australian* newspaper. The authors are academics and they self-identify as Madeleine Beekman, a "professor of evolutionary biology at the University of Sydney", and Bill von Hippel, a "professor of evolutionary psychology at the University of Queensland". The article begins with this passage:
 
 > The Australian Academy of Sciences recently changed its definition of a woman. According to the new definition, anyone who identifies as a woman is a woman, regardless of their biological sex.
 
-What this passage is referring to is the fact that AAS recently announced a policy of classifying transgender women such as myself as women for a variety of administrative, rather than as men as we would traditionally have been treated. It goes on to acknowledge that gosh maybe this is a good thing to do:
+What this passage refers to is the fact that AAS recently announced a policy of classifying transgender women such as myself as women for administrative purposes, rather than as men as we would traditionally have been treated. It goes on to acknowledge that this is a good thing to do:
 
 >This definition has the clear advantage that people who don’t identify with their biological sex will now be recognised as their preferred gender, an obvious social justice issue.
 
-How nice. The very next sentence, however, is this:
+"Oh how nice", I think to myself. Then I read the next sentence and my heart sinks. 
 
 >However, with this new definition of woman, the academy is tacitly stating that biological sex is of no significance. 
 
 The article then pivots away from transgender women entirely. The vast majority of the piece has *nothing at all* to do with transgender people. Instead it focuses on whether there are meaningful biological sex differences between cisgender men and women that might explain the observed gender disparities in STEM disciplines. 
 
-Oooookay. As a scientist as well as a transgender woman, I confess that I am puzzled (and more than a little annoyed) by that last sentence. Allow me to repeat it with emphasis:
+Oooookay. 
+
+As a scientist as well as a transgender woman, I confess that I am puzzled (and more than a little annoyed) by that last sentence. Allow me to repeat it with emphasis:
 
 > However, with this new definition of woman, the academy is tacitly stating that **biological sex is of no significance**. 
 
-This is patently absurd, and if I hadn't seen this kind of ridiculous exaggeration from academics so very many times before I would be surprised that otherwise-intelligent people would make this error. When I point out that this is an utterly unreasonable thing to say, I am met with a kind of blank surprise and defensiveness so complete that I don't know how to address it. Cisgender academics appear to be genuinely shocked that I would say this. They literally cannot understand what that sentence is a nonsense.
+This is patently absurd, and if I hadn't seen this kind of ridiculous exaggeration from academics so very many times before I would be surprised that intelligent people would make this error. When I point out that this is an utterly unreasonable thing to say, I am met with a kind of blank surprise and defensiveness so complete that I don't know how to address it. Cisgender academics appear to be genuinely shocked that I would say this. They literally cannot understand what that sentence is a nonsense.
 
-So I suppose I had best explain why it is a nonsense. I wish I did not have to. I tire of having to point out things that should be obvious to even a casual observer, but evidently this has become my lot. 
+So I suppose I had best explain why it is a nonsense. I wish I did not have to. I am very, very tired of this silliness.
 
 <p align="center">::::</p>
 
 Let us start at the beginning. 
 
-Suppose for the moment that AAS had not adopted a trans-inclusive definition. Suppose they had decided to exclude transgender women, and treat "woman" as a purely biological category. As scientists perhaps they might have chosen to define "woman" in chromosomal terms: people with XX chromosomes are deemed women for administrative purposes and people with XY chromosomes are deemed men. This definition mostly (but not completely) agrees with our everyday concept of "men and women". Biology -- like any complex system -- is somewhat messy, and a small proportion of the populace are intersex, and not easy to classify under a simple definition. 
+Suppose for the moment that AAS had not adopted a trans-inclusive definition. Suppose they had decided to exclude transgender women, and treat "woman" as a purely biological category. As scientists perhaps they might have chosen to define "woman" in chromosomal terms: people with XX chromosomes are deemed women for administrative purposes and people with XY chromosomes are deemed men. This definition mostly (but not completely) agrees with our everyday concept of "men and women". Biology -- like any complex system -- is somewhat messy, and a small proportion of the populace are intersex, and their identities are less easy to classify using this kind of simplistic rule. 
 
-Overall though you'd be mostly accurate. There aren't very many intersex people (about 1-2% of the population), so your classification system would maybe be about 98% accurate. In most classification contexts we'd probably be happy to classify anything with that kind of success rate, but because we recognise that the rights of intersex persons are important (assuming we are not jerks), we aim to be flexible and allow intersex people to be treated as members of whichever category they feel most appropriate. It is very rare -- unheard of, in fact -- for academics who believe in biological sex categories to start wringing their hands and  boldly proclaim that the words "man" and "woman" have fundamentally changed their definition merely because intersex people exist and are given reasonable accommodations. 
+Even so, there aren't very many intersex people (about 1-2% of the population), so a simplistic biological approach that assigned people to categories based on (say) chromosomes would maybe be about 98% accurate. That's actually a pretty decent classification rate and in most classification contexts we'd probably be happy to classify anything with that kind of success rate.
+
+However, because we are not jerks we recognise that a little care is needed. The rights of of intersex persons are *important* so rather than rigidly insisting on a too-simple rule we aim to be flexible. In most circumstances our approach is to allow intersex people to be treated as members of the category they feel is most appropriate. It is rare for academics who believe in biological sex categories to start wringing their hands and  boldly proclaim that the words "man" and "woman" have fundamentally changed their definition merely because intersex people exist and are given reasonable accommodations. 
 
 Why, that would be *absurd*.
 
-The existence of and recognition of a tiny minority does not suddenly render the cateogies "of no significance", now does it? Only a shallow and overly rigid thinker would make such a silly error.
+The existence and recognition of a tiny minority does not suddenly render the ordinary biological categories "of no significance", now does it? Only a shallow and overly rigid thinker would make such a silly error.
 
 <p align="center">::::</p>
 
@@ -55,37 +61,54 @@ In other words, by adopting a trans-inclusive definition, the accuracy of our ch
 
 Why, that would be *absurd*.
 
-When framed in terms of the empirical base rates of intersex and transgender people, the scientific illiteracy of Beekman and von Hippel's claim is painfully clear. From a "cold hard facts" perspective it makes no sense whatsoever to assert one definition ignores the reality of biological sex and the other does not. When the practical differences between the two approaches are so tiny, it simply can't be so. I think it is of some interest to consider why smart people would make such a foolish mistake.
+When framed in terms of the empirical base rates of intersex and transgender people, the scientific illiteracy of Beekman and von Hippel's claim is painfully clear. From a "cold hard facts" perspective it makes no sense whatsoever to assert one definition ignores the reality of biological sex and the other does not. When the practical differences between the two approaches are so tiny, it simply can't be so. 
+
 
 <p align="center">::::</p>
 
-I have a personal theory as to why this happens, one that I've never tested nor found any good way to test. It's quite a simple theory, actually: *cisgender people rarely think about how transgender lives work*.
+Given the strangeness of this error it becomes pertinent to ask: why do smart people make such foolish mistakes? I have several hypotheses, none of which I've ever been able to confirm or falsify very well. 
 
-The idea goes like this. To every transgender person it is painfully obvious that being transgender is a massive disadvantage in life. I regularly receive abusive comments on social media, have been threatened with violence, and live in constant fear that my basic rights will be taken away from me for no reason other than naked partisan gain by cynical politicians. When I that say I "identify as a woman", I don't just mean that on a whim I decided to throw on a dress one day. In point of fact I don't wear makeup and I rarely wear dresses: I'm a jeans and black t-shirts girl myself. What I mean is that over the last four years I have:
+The first hypothesis might be called the *blind spot theory*. According to this hypothesis, this kind of thing occurs due to a kind of thoughtlessness or cognitive myopia. That is, because transgender people are so rare and our experiences are so very different to those of cisgender people, cisgender people aren't very skilled at thinking about the entailments of their claims. Put crudely, the claim is that cisgender people simply do not think about us at all. 
 
-- Been diagnosed with gender dysphoria
-- Taken hormone replacement therapy and as a consequence
-- Grown breasts
-- Had my facial hair removed in an extremely painful way
-- Changed my name legally
-- Changed id document after id document
-- Learned a whole new set of tiresome social rules
-- Et cetera et cetera.
+How would the "blind spot" hypothesis work in this scenario? According to the theory, what happens here is that cisgender people look at the AAS definition and think something like this: "well *anyone* might self-identify as a woman with no consequences, and if that were to happen there would be no relationship between sex and gender at all!" 
 
-The point is that under no realistic definition of "gender identification" is this a small thing (I've talked about this [before](/post/an-ordinary-account/)). Gender transition is long, painful and filled with many traps for the unwary. When one takes the time to think it through it comes as no surprise to discover that so few people actually undertake it, especially when one considers the fact that most people have no desire to transition either.
+The silliness of this reasoning is painfully obvious to every transgender person: there are *consequences* to being trans, and those consequences are very significant indeed. Even without looking at the (dire) statistics on transgender lives, it should be obvious to anyone that there are massive disadvantages to being trans. Compared to most, I am very lucky, but even for me it is grim: I regularly receive abusive comments on social media, I have been threatened with violence for being trans, and I live in constant fear that my basic rights will be taken away from me for no reason other than naked partisan gain by cynical politicians. 
 
-In other words, the idea that something like the AAS policy could lead to a free for all on gender doesn't hold up under even a moment's examination when it is evaluated against the reality of our lives. Unfortunately, because cisgender people don't even *think* about us and our lives, it never occurs to them to go through this reasoning process, and they end up making very silly claims as a consequence. 
+So when say that I "identify as a woman", it most certainly means something substantial. It doesn't mean that on a whim I decided to throw on a dress one day (and in point of fact I don't wear dresses very often). What it has actually meant for me is that over the last four years I have
+
+- been diagnosed with gender dysphoria
+- taken hormone replacement therapy and, as a consequence
+- grown breasts
+- had my facial hair removed in an extremely painful way
+- changed my name legally
+- changed many many id documents and been repeatedly humiliated and verbally abused on occasions when doing so
+- et cetera et cetera.
+
+Not every transgender person will do these things. We vary quite a lot. But for every transgender person there *are* substantial consequences and in most cases the practical result is that bad things happen to us. In the world we actually live in, there are very few people who even *want* to transition, and fewer still who take any substantial steps towards doing so. 
+
+In other words, when we examine the practical consequences of the AAS definition in the real world, the idea that "anyone could identify as anything" doesn't really hold up. Unfortunately, in order to see that the idea is silly, you actually have to think this through. For transgender people this is trivially easy: we can look at our lives and it just "pops out" at us. But for cisgender people it's not so obvious. The have this blind spot that prevents them from seeing how absurd a claim this is. That's the first hypothesis. 
+
 
 <p align="center">::::</p>
 
-There's a second reason I think things like this happens, and why this particular fallacy is so common among academics: pedantry. In one instance the definition *explicitly* links gender categories to biological sex (leading to the 98% classification accuracy of sex as a predictor of gender), and in the other instance the definition only *implicitly* ties gender to sex (leading to the 97% classification accuracy). If we lived in a different world, one where the base rates were completely at odds with our own and 40% of the populace was trans, then there would be a practical difference between the two definitions. 
+The second hypothesis I have that might explain the phenomenon is one that every academic will find very familiar: *pedantry*. Academics are notorious sticklers for "the principle of the thing", are prone to dig in when we believe ourselves to be "technically correct" and so on. The pedantry account is subtly different to the blind spot account. According to the blind spot idea, cisgender people simply fail to think about the real world consequences of their ideas. According to the pedantry account, in contrast, they consider these consequences but claim that they are irrelevant. 
 
-In that world, the inference that Beekman and von Hippel made would have been quite sensible. However, we don't live in that world. Transgender people are a very tiny minority, and it is an act of pure pedantry to insist that biological sex has been deemed "of no significance" in *this* world solely because we can imagine a counterfactual world in which the two definitions would behave differently in practice. 
+Here's how that account would work in this scenario. From a practical standpoint -- given the world we live in -- there is very little difference in how the AAS definition and the traditional one *behave*. They classify people into gender categories in an almost identical fashion, with a mere 1% (give or take) of people making up the discrepancy. But to the pedant, this is not important. To the pedant it is the principle of the thing that matters, and according to (their choice of) principles there is actually a difference between the two rules. Specifically, the traditional definition *explicitly* links gender categories to biological sex whereas the AAS defintion connects sex and gender in an *implicit* way only. In our world as it exists these two rules are almost indistinguishable in practice (though transgender people such as myself have the misfortune to be that 1% of disputed cases). But! But, the pedant exclaims, if the base rates were different then the two rules would behave very differently. If we lived in a world where 40% of people were transgender then there would be quite marked practical differences. Ergo, we must treat this as a matter of importance!
 
-More than mere pedantry, it is cruel. To decide that this is the hill one wishes to die upon is to say that -- as far as you are concerned -- the reality of actual transgender lives is of less importance than a trite debating point. 
+The funny thing is, as a transgender woman who has become incredibly tired of the whole thing, the kind of person who makes this argument also tends to fancy themselves a hard nosed scientists. "Facts don't care about your feelings!" they declare, when dismissing the concerns of transgender people. It is puzzling however, because if scientific facts don't care about feelings, then the actual base rate of transgender people as it exists in this world is also a fact. In the real world, it is a distinction that makes little difference to anyone *except* transgender people. Under the AAS definition our lives are better than under the traditional one. For everyone else, life continues as before. 
 
-And so I have ended up with something of a contradiction. At the very beginning of their article Beekman and von Hippel imply that it is a good thing for social justice purposes that transgender people are accorded some status in society and by the AAS. Yet if we are to take their claims about the AAS definition at face value, we are led to a rather different conclusion. 
+It is a weirdly cruel hill to die on.
 
-The truth is that I don't know what's going on here. I cannot tell if their claim to support transgender people is a lie, if they didn't think their claim through, or if they simply didn't intend that part of their article to be taken too literally. Perhaps they just meant it to be a "rhetorical flourish".
+<p align="center">::::</p>
 
-The thing is, I don't care. I have no desire to be your rhetorical device or your debating point. It is degrading and humiliating to be treated so by my academic colleagues, but it is depressingly common. 
+My third hypothesis for this phenomenon might be called the *clickbait* hypothesis. According to this view, what is happening here is that the authors simply don't care one way or the other about transgender lives. They actually want to talk about something else, in this case sex differences as they pertain to the (mostly cisgender) human population. However, this subject is ... well, it's kind of boring. It doesn't exactly get people excited. So, because editors like to sell papers and academics love an eager audience, what the article needs is a cute or dramatic anecdote to "suck the reader in". In other words, perhaps those paragraphs about transgender people weren't meant to be taken seriously, they were just meant as "rhetorical flourish".
+
+What puzzles me about this one is that when I suggest this as a possible explanation, cisgender people jump at it. "Yes, yes!" they say "don't take it seriously". They breathe a sigh of relief, thankful that there is no cause for alarm.
+
+They say this and I think... "But that's actually *worse*. You do know that this makes it worse, right?" Under the blind spot hypothesis, the behaviour is accidental. We all have blind spots, and it is not hard to have sympathy in this case. Under the pedantry hypothesis, the behaviour is intentional but still slightly excusable. We all have our moments of pedantry. But the clickbait hypothesis postulates that the writer knows perfectly well that their claims are unfair and somewhat cruel to transgender people, but they have *deliberately* concluded that it is justifiable for them to be unkind to us, if the result is that they get a few more clicks on their article. That is immoral and selfish.
+
+<p align="center">::::</p>
+
+There is one last hypothesis that I have. One I hope is not true. A hypothesis of last resort if you will. Sometimes people are hurtful towards transgender folks not out of blindness, not out of misguided pedantry, not even out of selfishness.
+
+Sometimes they do it out of malice. 
