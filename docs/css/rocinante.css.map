@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "rocinante.css",
-	"sourceRoot": "/home/danielle/GitHub/utilities/essays",
+	"sourceRoot": "/home/danielle/GitHub/sites/essays",
 	"sources": [
 		"themes/hugo-rocinante/assets/css/rocinante.scss",
 		"themes/hugo-rocinante/assets/css/includes.scss"
