@@ -6,7 +6,7 @@ date: '2020-08-21'
 slug: trans-women-are
 summary: "I don't have an opinion about whether trans women are real women, any more than I have an estimate of the number of angels that can dance on the head of a pin or a belief about the mood of Thursday."
 type: post
-rmd_hash: fe4e9586a94e978d
+rmd_hash: 90a325ca5ebfa9ef
 
 ---
 
@@ -72,7 +72,7 @@ Nevertheless people do sometimes ask or expect me to take a position on this que
 
 -   Do you believe trans women are "real women" in a metaphysical sense?
 
-    > Good grief, what possible reason could I have to cares about metaphysics? I don't know the answer to the question and I regard it as a waste of my time to try to figure it out. In the real world I am far more concerned about violence and hatred directed at trans people, about the homelessness and unemployment risk we face, and other subjects that actually matter. Come back to me when I have spare time to waste on pointless questions
+    > Good grief, what possible reason could I have to cares about metaphysics? I don't know the answer to the question and I regard it as a waste of my time to try to figure it out. In my everyday life I am far more concerned about violence and hatred directed at trans people, about the homelessness and unemployment risk we face, and other subjects that actually matter. Come back to me when I have spare time to waste on pointless questions
 
 <p align="center">
 ::::::
