@@ -1,0 +1,24 @@
+#baseURL = "https://essays.djnavarro.net"
+baseurl = "/"
+languageCode = "en-us"
+title = "Essays :: Danielle Navarro"
+theme = "tachi"
+paginate = 100
+summaryLength = 0
+publishDir = "docs"
+relativeurls = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[author]
+  name = "Danielle Navarro"
+
+[params]
+  mainSections = ["post"]
+  email = ""
+  favicon = ""
+  about = "Miscellaneous writings by [Danielle Navarro](https://djnavarro.net). This site is more a personal journal than anything else. Sometimes I write 'essays' in the sense of short pieces of writing on a specific subjects, but more often my posts are 'essays' in the sense that they are tries or attempts at something. Not everything I write here should be regarded as serious opinion, and should not be taken to be me speaking in any professional capacity. Often the things I write here are attempts to organise or make sense of raw emotion, and ought not be read as more than that."
