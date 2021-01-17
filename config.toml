@@ -41,7 +41,7 @@ theme = "calade"
 # specific files that correspond to all of these pages. See
 # the documentation for an explanation of where they come from
 [[menu.main]]
-    name = "Home"
+    name = "About"
     url = "/"
     weight = 1
 [[menu.main]]
