@@ -6,7 +6,7 @@ date: '2020-08-21'
 slug: trans-women-are
 summary: "I don't have an opinion about whether trans women are real women, any more than I have an estimate of the number of angels that can dance on the head of a pin or a belief about the mood of Thursday."
 type: post
-rmd_hash: e931fc027b878d29
+rmd_hash: fe4e9586a94e978d
 
 ---
 
@@ -46,7 +46,7 @@ Nevertheless people do sometimes ask or expect me to take a position on this que
 
 -   Are trans women are biologically male? (Stipulate good faith)
 
-    > In some cases yes. In others, not necessarily. The biological sex characteristics for a transsexual woman such as myself are an odd mixture. For example, I (probably) have XY chromosomes, but I also have high oestrogen levels, and near zero testosterone. Plus, you know, I have breasts. These are all aspects of biological sex in humans, and that does matter. If you are discussing this subject in good faith you are not entitled to cherry pick the data: you cannot choose which sex characteristics are "legitimately" relevant to female sex solely for the purposes of excluding transsexual women from consideration. It is intellectually dishonest to do so
+    > In some cases yes. In others, not necessarily. The biological sex characteristics for a transsexual woman such as myself are an odd mixture. For example, I (probably) have XY chromosomes, but I also have high oestrogen levels, near zero testosterone, and I have breasts. These are all aspects of biological sex in humans, and that does matter. If you are discussing this subject in good faith you are not entitled to cherry pick the data: you cannot choose which sex characteristics are "legitimately" relevant to female sex solely for the purposes of excluding transsexual women from consideration. It is intellectually dishonest to do so
 
 -   Are trans women biologically male? (Pretend this is twitter)
 
