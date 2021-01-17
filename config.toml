@@ -70,11 +70,11 @@ theme = "calade"
     description = "Essays by Danielle Navarro"
     footer = ""
     twitterImage = "https://djnavarro.github.io/hugo-calade/header/caladown.png"
-    colorPage = "#333333"    # background colour
-    colorText = "#dddddd"    # main text colour
-    colorFade = "#888888"    # faded text colour
-    colorAccent1 = "#ff69b4" # first accent colour ("highlight")
-    colorAccent2 = "#ba68c8" # second accent colour ("lowlight")
+    colorPage = "#020515"    # background colour
+    colorText = "#AABBDD"    # main text colour
+    colorFade = "#445588"    # faded text colour
+    colorAccent1 = "#ffffff" # first accent colour ("highlight")
+    colorAccent2 = "#ffffff" # second accent colour ("lowlight")
 
 
 # Because hugodown and blogdown generate
