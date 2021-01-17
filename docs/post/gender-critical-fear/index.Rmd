@@ -1,0 +1,34 @@
+---
+output: hugodown::md_document
+title: On my fear of gender critical feminism
+author: Danielle Navarro
+date: '2020-12-30'
+slug: gender-critical-fear
+summary: "Miscellaneous thoughts on why I am frightened by gender critical feminists and their politics."
+type: post
+---
+
+I often wonder what gender critical feminists think of me, what they see when they look at me. I wonder what I have done to provoke such anger, why they think I am a deserving target for it. It's not that I haven't engaged: I've read a lot of gender critical writing. I read their twitter posts, medium articles, opinion pieces in newspapers, some books, and I am none the wiser from the experience. Sometimes I think I'd like to ask them directly, to try to understand, but I am too timid. So I am left wondering.
+
+The core principle to their feminism is a thing I understand (or at least I think I do). To them, the word "woman" refers to a biological sex category, roughly corresponding to "adult human female". Sure, it might be a fuzzy category -- e.g., intersex conditions mean that we can't neatly carve up human biology into "male" and "female" -- but that doesn't alter the fact that in most cases the biological sex of a person is pretty unambiguous. The fact that category boundaries are indistinct doesn't inherently mean that those categories are without value. Viewed from that perspective I am an imposter, a man who pretends to be a woman.
+
+At an abstract level, I understand the claim that is being made. I really do. What I don't understand, though, is what they seem to take as the political implications of their claim, which appear a little disproportionate. And I do not understand why they seem to think trans women should perceive no threat from them. A recent example I saw on twitter:
+
+> Women have legitimate reasons to be terrified of men. But we are labelled hysterical or evil when we call out [male violence against women]. Yet when males claim to be “terrified” of feminists who pose them no threat whatsoever, all they get is sympathy. This is bullshit.
+
+The author of the tweet is a gender critical feminist. The male referred to in the tweet is me (she was making reference to [this tweet](https://twitter.com/djnavarro/status/1343314987800903680)). I confess I am puzzled at the suggestion that gender critical feminism poses no threat to me whatsoever. It is as if I am expected to be entirely unaware of the reality of what gender critical feminists advocate, and what would happen to me if their preferred policies were enacted. 
+
+Take, for example, the foundational text of gender critical feminism, written by Janice Raymond in 1979: *The Transsexual Empire: The Making of the She-Male.* I've read sections of the book but the whole thing is a bit too distressing for me. The most famous passages of the book are well known. This [passage](https://foreignpolicy.com/2020/12/15/uk-transphobia-transgender-court-ruling-puberty-blockers/) by Grace Lavery quotes the two most notorious claims from the book:
+
+> Raymond argued that “all transsexuals rape women’s bodies by reducing the real female form to an artifact, appropriating this body for themselves,” and that consequently, “the problem of transsexualism would be best served by morally mandating it out of existence.” 
+
+It's pretty frightening to read feminists arguing explicitly that people like me should be eliminated. I rather like existing and actually I would prefer to continue to exist rather than being morally mandated out of this world. Is it any wonder that I find gender critical feminism terrifying? Taken as a political position, Jeffreys' book is hardly an innocuous one from the perspective of a "She-Male" such as myself. Surely my fear of gender critical feminists is understandable? 
+
+It is not that I expect to be physically attacked by them, of course. I'm not aware of any examples of direct, severe physical violence by gender critical feminists toward trans women. The worst I've ever experienced myself was a verbal threat (a gender critical feminist once told me she would physically assault me if I ever used the women's bathroom, and in retrospect I don't think it was intended literally). The violence I've experienced from men is much worse. *So much worse.* I mean, it's not even close. 
+
+Nevertheless, threats come in different shapes. Not all threats are threats of immediate violence, and the size of one's fear is not proportional to the immediacy of that violence. Conservative academics frighten me, for instance. Not because I think they will physically assault me, but because they endorse policies that would put me at risk of violence from other sources. Feminists, gender critical feminists included, would understand this principle, surely? It isn't a complicated idea, is it?
+
+I would have thought that as a matter of intellectual honesty, gender critical feminists should be willing to acknowledge that I have legitimate reasons to be frightened of them. If their preferred policies became law, I would be placed at risk of male violence every time I went to use the bathroom (because I would have to use the men's room), any prison sentence carries with it a punitive rape (because I would be in a men's prison), there would be no place I could hide from male violence (because domestic violence shelter's would be closed to me), and so on. If their word becomes law, my world becomes less safe. 
+
+So yes, I am frightened. Is that really a surprise?
+
