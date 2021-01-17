@@ -65,10 +65,10 @@ theme = "calade"
 # - "colorAccent2": default value for the second accent color (the "lowlight")
 
 [params]
-    siteHeader = "header/banner.png"
-    siteProfile = "header/profile.png"
-    description = "A website of one's own"
-    footer = "A footer of one's own"
+    siteHeader = ""
+    siteProfile = ""
+    description = "Essays by Danielle Navarro"
+    footer = ""
     twitterImage = "https://djnavarro.github.io/hugo-calade/header/caladown.png"
     colorPage = "#333333"    # background colour
     colorText = "#dddddd"    # main text colour
