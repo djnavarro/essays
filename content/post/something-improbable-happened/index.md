@@ -1,0 +1,93 @@
+---
+output: hugodown::md_document
+title: "Something improbable happened"
+type: "post"
+summary: "A story about rape, probability, and statistics. Maybe an attempt to heal old wounds."
+author: "Danielle Navarro"
+slug: something-improbable-happened
+tags: []
+date: 2021-03-12
+rmd_hash: 9521680b2aea0936
+
+---
+
+There are many ways to test a statistical hypothesis. One of the simplest is to make observations of the world and calculate how likely it is that you would have encountered data like the things you actually saw. If what you see is in line with what you'd have expected, the hypothesis is deemed to have passed that test. If the data don't agree, we call it a failure.
+
+As with anything in life, the reality of statistical inference is more complicated. Among the many complications that exist is the fact that when the data and hypothesis disagree, it's not strictly legitimate to conclude the hypothesis is wrong. Rather, the only thing we can conclude is that either the hypothesis is wrong, or something unlikely has happened. Or perhaps both.
+
+This is a story about rape, probability, and statistics.
+
+When we talk about rape, when we tell stories about it, there is a consistent narrative. In almost all the stories the rapist is a man and the victim is a woman. Even when the victim is not a woman, the rapist is still a man, almost always. Stories about women raping men are few and far between. Vanishingly rare, in fact.
+
+These stories suggest a statistical hypothesis, namely that most rapists are men. Official statistics seem entirely consistent with this. Female rapists do exist, certainly, but in much smaller numbers then male rapists. Any honest examination of the data would suggest our hypothesis passes the test. Rapists are mostly men. At a macro level, the data are in and we know where our efforts must be focused.
+
+What do you do, then, if you're the outlier? What if you're the survivor whose abuser was a woman? What if you are man and you were raped by a woman? How do you think about these things then? What if, to take the outlandish story further, you later became an outlier in a second sense, and transitioned from male to female? What meaning do you attach to these events if that's your story?
+
+An esoteric situation, to be certain. Not something most people would encounter, easy to dismiss as an edge case.
+
+It is my bad luck then, that I just happen to be that edge case, and as my therapist has suggested, I can't avoid thinking about this one if I am ever to heal.
+
+In the years that followed the rape, before I transitioned, I often found myself wondering if the hypothesis was wrong. Maybe it's not really true that most rapists are men. Maybe my situation is less rare than it would seem. There's certainly a case to be made for this. I read a lot of stories by male rape survivors at the time and so often their words sounded like my own. Who would ever believe me if I said a woman raped me? Men would not believe me. Women would not believe me. Police? Prosecutors? I would laugh bitterly at the merest thought that I could report it. Would feminists believe me? Would progressives? Would conservatives? About the only group who I could imagine "believing" me were men's rights activists, but since MRA groups seem to spend most of their time attacking women and disbelieving their stories, this was hardly a comfort. On the contrary, the thought that an MRA group would "support" me seemed like strong evidence that my own story must be a lie.
+
+Besides, the longer I looked into it, the more implausible it seemed that the official statistics are far from the truth. Most women don't report being raped when a man does it, so there would have to be a massive yet invisible epidemic of women raping men in order for the hypothesis to be wrong. No matter how I looked at it, I could not think of a plausible reason not to believe the hypothesis, *even taking my own story into account*. Most rapists are men. Which leaves me with a puzzle, the one that statisticians sometimes sweep under the rug.
+
+The hypothesis isn't wrong: the truth is that something improbable happened.
+
+Accepting this is not easy. It's unsatisfying. I want a reason. An explanation. Why did this happen to me? What made me the target? Was it something I wore? Was it my demeanor? Did I lead her on? Did I drink too much that first night? Am I remembering it wrong all these years later? Why did this woman I hardly knew abuse me like that? I am desperate to know the answer, and at the same time resigned to the fact that I never will.
+
+The constant stream of self doubt and shame that I feel is hardly unusual for a rape survivor, I'm told. If I'd been a woman and my rapist a man, I'd be the first person to vehemently deny the legitimacy of the questions: the blame for a rape lies solely and completely with the rapist. It doesn't matter if she'd been drinking, or was dressed the "wrong" way, or whatever. Blame for rape falls entirely upon the rapist. None of these are mitigating factors, I would say.
+
+Except when it comes to my own story, I am somehow incapable of taking this same stance. I blame myself for what she did to me. Or I convince myself it was really consensual. I'm lying to myself to gain sympathy. Something like that, anyway. Victim blaming seems perfectly okay when I'm doing it to myself, apparently.
+
+As far as I can tell my rapist wasn't a terrible person. She didn't seem like an abuser. She was smart, well spoken and well liked. Even today I find myself thinking about her and asking how it is even possible that such a person could be a rapist. I imagine her as a happily married middle aged mother of three living quietly in the suburbs. Not exactly my mental model of what a rapist looks like.
+
+Something improbable has happened.
+
+Those words roll around in my head, and a nasty little voice inside whispers "well, two improbable things..." and I am led down the dark path of considering my rape and my gender identity together. Perhaps there is a connection after all. Rates of sexual assault among transgender people are astonishingly high. From what I can gather trans women are abused more often than cis women, and trans men even more than trans women. Statistically, once we condition on one unlikely fact (that I am a trans woman), the second fact (that I am a rape survivor) is suddenly very plausible indeed. Perhaps no special pleading is required to explain my rape: certainly there is no reason to view my experience as unusual when considered in that light.
+
+I am relieved, but only for a moment. The nasty voice is not so easily dissuaded, and next it whispers to me "you weren't a trans woman when the rape happened, honey, and the causal arrow doesn't point in that direction". If there's a causal story to tell, it's hard to imagine that my transness played a causal role in the rape. I didn't know I was trans. I thought of myself as a man, albeit a shy and feminine man. I didn't consider myself a woman at all.
+
+So what does that mean? Maybe the rape was the improbable thing, and I transitioned... because of trauma, maybe? Is that what happened? There's certainly no shortage of "gender critical" feminists who argue that this mechanism underpins the gender identity of trans men... maybe they're right and that my story is the same thing with the genders reversed? It would certainly fit nicely with my general sense of self loathing, but again I am suspicious. Would I have the arrogance to advance this explanation to a trans man? I think not, and it seems contemptible even to consider such a thing. Surely I owe myself the same epistemic charity I would extend to others?
+
+My mind twists around those words again. Something improbable happened.
+
+Somewhat bitterly it occurs to me that this whole line of thinking does nothing to resolve my confusion. It doesn't matter what causal story I tell, something improbable did happen. There isn't a version of this story that ends with me thinking "gosh well this all makes sense then." It's not a story that lends itself to that conclusion
+
+"Well, you could be delusional..." the voice whispers, and on my bad days I start believing it. As an openly transgender woman, there are no shortage of people willing to tell me that I am in fact a mentally ill, deluded and possibly perverted man. Much to my own frustration I encounter those people online on a regular basis. Usually I ignore them. Some days, though, it seeps under my skin. If my gender identity is a delusion, then why not the rape also? We could parsimoniously account for all the data simply by accepting that I am delusional, that my perception of the world is inherently flawed and I cannot be trusted as the narrator of my own story.
+
+A clean, simple story... and all I would have to do is distrust my own reason, to forfeit all claims to epistemic legitimacy and accept that I am crazy.
+
+Sure, I don't feel like I'm delusional, but then again, if I were how would I know? Presumably if I were, the people around me should be acting as if I am untrustworthy or unreliable, and that doesn't seem to be the case. The only people who appear to be making that kind of argument are those who have no direct personal interaction with me. The only way that would make sense is if every single person in my life is such a skilled liar that I cannot detect it, which doesn't seem at all plausible. Short of descending into solipsism I don't see any reason to endorse the idea that delusion is an explanation.
+
+So again the wheel turns. Something improbable happened.
+
+By this point I am starting to get tired of the whole thing. The nasty voice is not silent, but I've stopped listening. The truth is that none of this reflection buys me very much. The past is past. The rape happened. My transition happened. The thousands of choices and experiences that brought me to the point where those things could occur, those happened too.
+
+Something improbable happened, yes, but it is I'm the nature of things for all of us to experience *something* improbable. Statistical thinking can help me here. The sample space of possible events a human can experience is of bewilderingly high dimension, for the trivial reason that life is complicated, and high dimensional spaces are lonely places. Even two very similar events can be a long distance from one another when you start looking at the details. Everyone is a special fucking snowflake, me no less than anyone else I suppose
+
+Something improbable happened, maybe, but it's only with the benefit of hindsight that it seems as bizarre as it does. The improbable events that happened to me didn't necessarily have to be about rape, they didn't have to be about gender. It could have been something else. Pick a number at random between one and a trillion: no matter what number comes up, something improbable has happened. A one in a trillion event, in fact.
+
+Does it matter if the events aren't truly random? I open my laptop. The battery level is 77%, so I open R and type the following commands:
+
+<div class="highlight">
+
+<pre class='chroma'><code class='language-r' data-lang='r'><span class='nf'><a href='https://rdrr.io/r/base/Random.html'>set.seed</a></span><span class='o'>(</span><span class='m'>77</span><span class='o'>)</span>
+<span class='nf'><a href='https://rdrr.io/r/base/sample.html'>sample</a></span><span class='o'>(</span><span class='m'>1000000000</span>, <span class='m'>1</span><span class='o'>)</span>
+
+<span class='c'>#&gt; [1] 177321901</span>
+</code></pre>
+
+</div>
+
+In one sense this result is completely predictable, a deterministic property of the pseudorandom number generator in R. The result has probability 1. It had to happen. Viewed in another sense, it's utterly improbable. From my point of view, as an observer who doesn't have access to all the internal workings of the RNG it might as well be random: a one in a trillion chance.
+
+Intellectually, this explanation makes sense. We live in a world in which terrible things happen all the time. Something terrible did happen. I was raped. We also live in a world that is complicated, and every event in that world is highly improbable. In hindsight the particulars of my rape are very improbable, and to have predicted those particulars is no less absurd than expecting myself to have predicted the particular number 177321901 to appear.
+
+The world being what it is, something terrible was quite likely to happen to me. It was always going to be something that seems improbable with the benefit of hindsight. There's no moral to this story, no character arc or plot development that ties everything together. It just happened. Life is like that.
+
+This perspective helps me in another way too. It suggests that I am not as isolated as I feel. I'm not that different from any other survivor. My specifics are my own, but it's the commonality that matters. The rape was a violation, and now that it has happened the sex of the rapist is simply not relevant to me. Her motives don't matter, and they wouldn't matter if she'd been a man either
+
+My task is not to make sense of the events or my abusers motivation. My task is to heal. To acknowledge the pain that I have felt, to accept that it has shaped the course of my life, and to be at peace with that. My task is simply to live the life that I have, to the best of my ability. Sometimes it seems improbable, but I tell myself that stranger things have happened.
+
+<br><br>
+
