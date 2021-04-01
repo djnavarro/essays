@@ -7,7 +7,7 @@ slug: hidden-loss
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-01
-rmd_hash: fab58f5a0f4d764b
+rmd_hash: 6f336c15ebe03347
 
 ---
 
@@ -47,7 +47,7 @@ Transition is *not* a simple thing. When I transitioned I didn't just change my 
 
 Worse yet, the more my physical appearance changed as a consequence of the hormones, that's what it felt like at home too. Sexual orientation is a fundamental part of a person's sense of self, and hers was being taken away from her. It took me a while to notice (being bisexual, it's one of my blind spots) but once I did, I started to understand how much pain she was in.
 
-She'd gone from being married to a man she loved, to being married to a woman she barely knew. Of course that matters: how could it not? None of this was what she had signed up for, none of these changes were fair on her. She never asked to be a party to the culture wars around trans people, she never had any reason to think this would be her life. And, unlike me, she had no agency in the process.
+She'd gone from being married to a man she loved, to being married to a woman she barely knew. Of course that matters: how could it not? None of this was what she had signed up for, none of these changes were fair on her. She was pulled into the culture wars around trans people without warning. She never had any reason to think this would be a part of her life. And, unlike me, she had no agency in the process.
 
 All these things are deeply, unbearably painful. And yet *no-one else noticed*. She was alone.
 
@@ -55,7 +55,7 @@ All these things are deeply, unbearably painful. And yet *no-one else noticed*. 
 :::::
 </p>
 
-There isn't really a neat way to wrap up this story, to be honest. It's not a story where there are good people and bad people. It's not a story where there's a simple moral, or any simple answers. But it's one that deserves to be told, and one that deserves to be understood. What my partner went through during my transition was horrific, and her loss went entirely unnoticed. Her pain is still there. Her grief is still real.
+There isn't really a neat way to wrap up this story, to be honest. It's not a story where there are good people and bad people. It's not a story where there's a simple moral, or any simple answers. But it's one that deserves to be told, and one that deserves to be understood. What my partner went through during my transition was heartbreaking, and her loss went entirely unnoticed. Her pain is still there. Her grief is still real.
 
 She deserved better then. She deserves better now.
 
