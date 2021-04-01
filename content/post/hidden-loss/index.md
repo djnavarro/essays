@@ -7,7 +7,7 @@ slug: hidden-loss
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-01
-rmd_hash: 60b6b32685f47d97
+rmd_hash: fab58f5a0f4d764b
 
 ---
 
@@ -31,7 +31,7 @@ But nobody noticed *her* pain. No-one reached out to *her*. Her partner was slow
 :::::
 </p>
 
-I don't know how to put it into words. Her partner died slowly over several years, right in front of her eyes, and nobody in her world noticed. Nobody reached out to her. Nobody saw her loss. Nobody comforted her even after he died.
+I don't know how else to put it into words. Her partner died slowly over several years, right in front of her eyes, and nobody in her world noticed. Nobody reached out to her. Nobody marked her loss. Nobody comforted her even after he died.
 
 Actually, it's worse than that. Because nobody wants to be seen as transphobic or unsupportive of trans people, *she* was expected to be the person supporting me. If she gave even the slightest hint of how much pain she was in, people would immediately dismiss it. They'd say (about me) "oh, but she's still the same person on the inside!" leaving my partner stuck in this bind: if she disagrees in any way she comes across as superficial or transphobic, but if she accepts it then she is forced to disown her own pain.
 
@@ -43,9 +43,21 @@ This pattern was so pronounced, so universal, that it ended up working as a form
 
 Why do relationships suffer when one partner transitions? Sometimes, sadly, the answer really is transphobia. But that's not what happened with us, and my guess is that's not even the most common explanation.
 
-Transition is *not* a simple thing. When I transitioned I didn't just change my name and put on a dress. The hormones changed my body drastically, the social expectations of my adoptive gender forced my behaviour to change, and over time my whole personality became very different. This matters, in a fundamental way. As I started to pass as a woman, the world started perceiving us as a gay couple. I'm bisexual so it really doesn't make a different to *me*, but she is straight. To be seen as something you're not is a difficult thing for anyone to live with (ask me how I know!) and it hurt her to feel like she was losing her identity. Worse yet, the more my physical appearance changed as a consequence of the hormones, that's what it felt like at home too. Sexual orientation is a fundamental part of a person's identity, and hers was being taken away from her. It took me a while to notice (being bisexual, it's one of my blind spots) but once I did, I started to understand how much pain she was in.
+Transition is *not* a simple thing. When I transitioned I didn't just change my name and put on a dress. The hormones changed my body drastically, the social expectations of my adoptive gender forced my behaviour to change, and over time my whole personality became very different. This matters, in a fundamental way. As I started to pass as a woman, the world started perceiving us as a gay couple. I'm bisexual so it really doesn't make a different to *me*, but she is straight. To be seen as something you're not is a difficult thing for anyone to live with (ask me how I know!) and it hurt her to feel like she was losing her identity.
 
-She'd gone from being married to a man she loved, to being married to a woman she barely knew. Of course that matters: how could it not?
+Worse yet, the more my physical appearance changed as a consequence of the hormones, that's what it felt like at home too. Sexual orientation is a fundamental part of a person's sense of self, and hers was being taken away from her. It took me a while to notice (being bisexual, it's one of my blind spots) but once I did, I started to understand how much pain she was in.
 
-And yet... *no-one else noticed*. She was alone.
+She'd gone from being married to a man she loved, to being married to a woman she barely knew. Of course that matters: how could it not? None of this was what she had signed up for, none of these changes were fair on her. She never asked to be a party to the culture wars around trans people, she never had any reason to think this would be her life. And, unlike me, she had no agency in the process.
+
+All these things are deeply, unbearably painful. And yet *no-one else noticed*. She was alone.
+
+<p align="center">
+:::::
+</p>
+
+There isn't really a neat way to wrap up this story, to be honest. It's not a story where there are good people and bad people. It's not a story where there's a simple moral, or any simple answers. But it's one that deserves to be told, and one that deserves to be understood. What my partner went through during my transition was horrific, and her loss went entirely unnoticed. Her pain is still there. Her grief is still real.
+
+She deserved better then. She deserves better now.
+
+<br><br>
 
