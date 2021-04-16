@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: "Anger"
 type: "post"
-summary: "A note"
+summary: "Some emotions do not pass easily"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-16
