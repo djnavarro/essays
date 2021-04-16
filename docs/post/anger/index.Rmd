@@ -1,0 +1,12 @@
+---
+output: hugodown::md_document
+title: "Anger"
+type: "post"
+summary: "A note"
+author: "Danielle Navarro"
+tags: []
+date: 2021-04-16
+---
+
+I saw what you wrote. What you said about me, what you said about my family. I've wondered if I was as ill as you said I was. I wondered if my subordination to you was as ingrained as you said. It wasn't, but you had me believing you for a long time. Years later I still don't know how to reconcile the good with the bad - there was so much of both that I don't imagine I'll ever make sense of it. But I'm still angry, even after all this time, and I don't know if that will change.
+
