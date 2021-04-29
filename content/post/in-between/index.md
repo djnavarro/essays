@@ -6,7 +6,7 @@ summary: "An essay I wrote back in 2019 about transitions of various kinds"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-29
-rmd_hash: 4d05f9c957338754
+rmd_hash: 3cddeee18f1fa09e
 
 ---
 
@@ -831,7 +831,7 @@ And so I worry, even still. For me to be useful as rhetorical weapon, must I con
 
 [^5]: These days I find that women are much more willing to talk to me and share that part of their world, and I am deeply grateful. In part, I have found it reassuring to learn how many of my own experiences are mirrored in theirs, but perhaps more importantly the advice I've been given through the whisper net *has* kept me safe in many situations that might otherwise have been... quite bad.
 
-[^6]: I honestly cannot believe how naive I was when I wrote this. In the last couple of years I think we've seen the mask come off the TERF movement: as they've achieved more political wins in their activism, particularly in the UK, they've become openly hateful now. There's barely even a pretense that their political goals are based in anything other than a desire to punish trans women. In the last two years we've seen their views become normalised, and the dehumanising rhetoric targeting trans women has become so much grotesque.
+[^6]: I honestly cannot believe how naive I was when I wrote this. In the last couple of years I think we've seen the mask come off the TERF movement: as they've achieved more political wins in their activism, particularly in the UK, they've become openly hateful now. There's barely even a pretense that their political goals are based in anything other than a desire to punish trans women. In the last two years we've seen their views become normalised, and the dehumanising rhetoric targeting trans women has become so much more grotesque.
 
 [^7]: Jesse Singal, obviously. In the two years since I wrote the original piece I think it's become clearer to many others that he is an entirely untrustworthy source when it comes to trans women, but back in 2019 very few people in my academic community listened to me when I tried to speak about how badly slanted his journalism on transgender subjects is. I am still bitter about that.
 
@@ -841,7 +841,7 @@ And so I worry, even still. For me to be useful as rhetorical weapon, must I con
 
 [^10]: To be more precise, because my original phrasing here isn't ideal, while I *did* have that fear, I didn't take that fear seriously because I'd been conditioned to believe that rape doesn't happen to people like me. I thought I was being irrational to worry about it, so I ignored my fears. To my own detriment, as it turned out.
 
-[^11]: In the original version of the essay I linked here to an essay called *Valentines Day*, which was the first time I'd ever publicly admitted that I'd been raped in my 20s. That essay is now gone (it's a little too raw for me to face those words), but I did later write a piece called [Something Improbable Happened](/post/something-improbable-happened/) in which I tried to come to terms with the experience.
+[^11]: In the original version of the essay I linked here to an essay called *Valentines Day*, which was the first time I'd ever publicly admitted that I'd been raped in my 20s. That essay is now gone (it's a little too raw for me to face those words), but I did later write a different [essay](/post/something-improbable-happened/) in which I tried to come to terms with the experience.
 
 [^12]: Rereading the essay in 2021 I can't help but notice how often I resort to overtly transmisogynistic language when describing myself. There's quite a lot of unexamined self-loathing in how I wrote this piece. I would *never* describe another trans woman using the language I direct at myself in this essay. It's cruel and dehumanising. That kind of self-hate is something I've been working on since then.
 
