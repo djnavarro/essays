@@ -6,7 +6,7 @@ summary: "An essay I wrote back in 2019 about transitions of various kinds"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-29
-rmd_hash: 751a8b0862b212fd
+rmd_hash: dced5bd2165c1215
 
 ---
 
@@ -851,7 +851,7 @@ And so I worry, even still. For me to be useful as rhetorical weapon, must I con
 
 [^15]: It is hard to understate how different the world was when I grew up, and what the attitudes towards gender nonconformity and transsexuality were like when I was a child. I still don't know how to put into words how frightened I was. You can see some of that emotion come out occasionally on [twitter](https://twitter.com/djnavarro/status/1373802733522796545), but it doesn't do justice to what the actual experience was.
 
-[^16]: Sigh. As it turns out, I wasn't. I had a severe panic attack while I was there, and it was the beginning of one of the darkest periods in my life in. I burned out badly and had to take months off work to deal with the mental health problems that ensued. The fallout from that part of my life still hasn't ended, I am sorry to say.
+[^16]: Sigh. As it turns out, I wasn't. I had a severe panic attack while I was there, and it was the beginning of one of the darkest periods in my life. I burned out badly and had to take months off work to deal with the mental health problems that ensued. The fallout from that part of my life still hasn't ended, I am sorry to say.
 
 [^17]: This is another case where I have become more cynical. I've seen her name appear several times in documents that express support for "gender critical feminism", which is little more than a polite name for "anti-trans feminism". Though this footnote is hardly the place to make the case, my opinions on the book have become more negative and I no longer think that Fine's treatment of trans people in that book was accidental.
 
