@@ -8,6 +8,11 @@ tags: []
 date: 2021-04-08
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(dev.args = list(bg = "#eeeeee"))
+```
+
+
 **[NOTE]**: This is not a new post. The original publication date was 2018-05-06.
 
 This paper by Steensma et al (2013) seems to have been the source of some rather intense public discussion.

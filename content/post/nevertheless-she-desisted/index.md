@@ -1,12 +1,12 @@
 ---
 output: hugodown::md_document
-title: "Nevertheless she desisted"
+title: "Nevertheless, she desisted"
 type: "post"
 summary: "A brief review of Steensma et al (2013)"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-08
-rmd_hash: 039604a46fb68738
+rmd_hash: b9522c977707d9d7
 
 ---
 
