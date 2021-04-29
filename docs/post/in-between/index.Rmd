@@ -14,7 +14,7 @@ knitr::opts_chunk$set(dev.args = list(bg = "#eeeeee"))
 ```
 
 
-**[NOTE]**: This is not a new post. The original publication date was 2019-02-16. I've made minor edits to fix broken links and update the code to accommodate package updates, but the main text of the piece is otherwise unchanged. The footnotes are new additions that reflect how my perspective has changed in the two years since I wrote this.
+**[NOTE]**: This is not a new post. The original publication date was 2019-02-16. I've made minor edits to fix broken links and update the code to accommodate package updates (or comment on the failures to make the old code work), but the main text of the piece is otherwise unchanged. The footnotes are new additions that reflect how my perspective has changed in the two years since I wrote this.
 
 ## Prelude. We're all in this together
 
@@ -494,7 +494,7 @@ anim <- loop(m_poly, f_poly, tween_polygon,
 for(f in 1:100) drawframe(anim, f)
 ```
 
-There are indeed two polygons here, the outer one and the inner one, but instead of rendering it as a *single* shape with a hole in it, `geom_polygon` has drawn two filled shapes, one over the top of the other. The only reason you can see the inner shape at all is due to the partial transparency. Fortunately, this is a problem that isn't too difficult to solve with the assistance of the [ggpolypath](https://github.com/mdsumner/ggpolypath) package. In the code below I have modified the `drawframe` function to call the `geom_polypath` function in place of the `geom_polygon` function, and it works rather nicely. 
+There are indeed two polygons here, the outer one and the inner one, but instead of rendering it as a *single* shape with a hole in it, `geom_polygon` has drawn two filled shapes, one over the top of the other. The only reason you can see the inner shape at all is due to the partial transparency. Fortunately, this is a problem that isn't too difficult to solve with the assistance of the [ggpolypath](https://github.com/mdsumner/ggpolypath) package. In the code below I have modified the `drawframe` function to call the `geom_polypath` function in place of the `geom_polygon` function, and it works rather nicely...
 
 ```{r polygontween3, warning=FALSE, cache=TRUE, animation.hook='gifski', interval=.05}
 drawframe <- function(data, f) {
@@ -516,7 +516,7 @@ drawframe <- function(data, f) {
 for(f in 1:100) drawframe(anim, f)
 ```
 
-I'm still learning the details of how `geom_polypath` works, but this is good enough for my purposes, and this is much closer to the kind of tweening that I'd hoped for in an MTF transition.
+...or at least it did in 2019. Something changed in the packages in the interim and I'm too tired to figure it out right now.
 
 <br>
 
@@ -606,7 +606,7 @@ drawframe(male %>% mutate(.frame = 1), 1)
 drawframe(female %>% mutate(.frame = 100), 100)
 ```
 
-We're getting closer. Although there is as yet no transition, we have a representation of the two states suitable for tweening, and in my experience that's most of the battle.^[In the original 2019 version of this post, the "male" and "female" states were rendered as filled polygons with holes using `geom_polypath()`, as was the final MTF animation. Something changed in the packages in the interim and I'm too tired to figure it out right now. As a consequence, I decided to revert to a version that used `tween_path()` to compute the intermediate states and rendered frames using `geom_path()`. Sigh. If I'd known more about computational reproducibility back then I could probably have written code that would be a little more robust to this issue, but such is life.]
+We're getting closer. Although there is as yet no transition, we have a representation of the two states suitable for tweening, and in my experience that's most of the battle.^[In the original 2019 version of this post, the "male" and "female" states were rendered as filled polygons with holes using `geom_polypath()`, as was the final MTF animation. As a consequence of the changes to the packages in the last two years, I decided to revert to a version that used `tween_path()` to compute the intermediate states and rendered frames using `geom_path()`. Sigh. If I'd known more about computational reproducibility back then I could probably have written code that would be a little more robust to this issue, but such is life.]
 
 <br>
 

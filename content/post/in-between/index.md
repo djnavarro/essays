@@ -6,11 +6,11 @@ summary: "An essay I wrote back in 2019 about transitions of various kinds"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-29
-rmd_hash: 74dfb3ae02961011
+rmd_hash: f786338efec744bf
 
 ---
 
-**\[NOTE\]**: This is not a new post. The original publication date was 2019-02-16. I've made minor edits to fix broken links and update the code to accommodate package updates, but the main text of the piece is otherwise unchanged. The footnotes are new additions that reflect how my perspective has changed in the two years since I wrote this.
+**\[NOTE\]**: This is not a new post. The original publication date was 2019-02-16. I've made minor edits to fix broken links and update the code to accommodate package updates (or comment on the failures to make the old code work), but the main text of the piece is otherwise unchanged. The footnotes are new additions that reflect how my perspective has changed in the two years since I wrote this.
 
 Prelude. We're all in this together
 -----------------------------------
@@ -571,7 +571,7 @@ However, while `tween_polygon` is flexible enough to represent this the way we'd
 
 </div>
 
-There are indeed two polygons here, the outer one and the inner one, but instead of rendering it as a *single* shape with a hole in it, `geom_polygon` has drawn two filled shapes, one over the top of the other. The only reason you can see the inner shape at all is due to the partial transparency. Fortunately, this is a problem that isn't too difficult to solve with the assistance of the [ggpolypath](https://github.com/mdsumner/ggpolypath) package. In the code below I have modified the `drawframe` function to call the `geom_polypath` function in place of the `geom_polygon` function, and it works rather nicely.
+There are indeed two polygons here, the outer one and the inner one, but instead of rendering it as a *single* shape with a hole in it, `geom_polygon` has drawn two filled shapes, one over the top of the other. The only reason you can see the inner shape at all is due to the partial transparency. Fortunately, this is a problem that isn't too difficult to solve with the assistance of the [ggpolypath](https://github.com/mdsumner/ggpolypath) package. In the code below I have modified the `drawframe` function to call the `geom_polypath` function in place of the `geom_polygon` function, and it works rather nicely...
 
 <div class="highlight">
 
@@ -597,7 +597,7 @@ There are indeed two polygons here, the outer one and the inner one, but instead
 
 </div>
 
-I'm still learning the details of how `geom_polypath` works, but this is good enough for my purposes, and this is much closer to the kind of tweening that I'd hoped for in an MTF transition.
+...or at least it did in 2019. Something changed in the packages in the interim and I'm too tired to figure it out right now.
 
 <br>
 
@@ -847,7 +847,7 @@ And so I worry, even still. For me to be useful as rhetorical weapon, must I con
 
 [^13]: I later wrote about that feeling and some of the associated fears [here](/post/daniel/).
 
-[^14]: In the original 2019 version of this post, the "male" and "female" states were rendered as filled polygons with holes using [`geom_polypath()`](https://rdrr.io/pkg/ggpolypath/man/geom_polypath.html), as was the final MTF animation. Something changed in the packages in the interim and I'm too tired to figure it out right now. As a consequence, I decided to revert to a version that used [`tween_path()`](https://rdrr.io/pkg/transformr/man/tween_path.html) to compute the intermediate states and rendered frames using `geom_path()`. Sigh. If I'd known more about computational reproducibility back then I could probably have written code that would be a little more robust to this issue, but such is life.
+[^14]: In the original 2019 version of this post, the "male" and "female" states were rendered as filled polygons with holes using [`geom_polypath()`](https://rdrr.io/pkg/ggpolypath/man/geom_polypath.html), as was the final MTF animation. As a consequence of the changes to the packages in the last two years, I decided to revert to a version that used [`tween_path()`](https://rdrr.io/pkg/transformr/man/tween_path.html) to compute the intermediate states and rendered frames using `geom_path()`. Sigh. If I'd known more about computational reproducibility back then I could probably have written code that would be a little more robust to this issue, but such is life.
 
 [^15]: It is hard to understate how different the world was when I grew up, and what the attitudes towards gender nonconformity and transsexuality were like when I was a child. I still don't know how to put into words how frightened I was. You can see some of that emotion come out occasionally on [twitter](https://twitter.com/djnavarro/status/1373802733522796545), but it doesn't do justice to what the actual experience was.
 
