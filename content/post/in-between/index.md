@@ -6,7 +6,7 @@ summary: "An essay I wrote back in 2019 about transitions of various kinds"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-29
-rmd_hash: f3f3b37fe2bab0c0
+rmd_hash: 807f66e731c30887
 
 ---
 
@@ -853,7 +853,7 @@ And so I worry, even still. For me to be useful as rhetorical weapon, must I con
 
 [^16]: Sigh. As it turns out, I wasn't. I had a severe panic attack while I was there, and it was the beginning of one of the darkest periods in my life. I burned out badly and had to take months off work to deal with the mental health problems that ensued. The fallout from that part of my life still hasn't ended, I am sorry to say.
 
-[^17]: This sentence is another point where 2019 was avoiding talking about a particular subject. Unfortunately 2021 me doesn't want to talk about it either, so instead I'll remark that yes this is a strange sentence and there is a lot of anger behind it.
+[^17]: This sentence is another point where 2019 me was avoiding talking about a particular subject. Unfortunately 2021 me doesn't want to talk about it either, so instead I'll remark that yes this is a strange sentence and there is a lot of anger behind it.
 
 [^18]: This is another case where I have become more cynical. I've seen her name appear several times in documents that express support for "gender critical feminism", which is little more than a polite name for "anti-trans feminism". Though this footnote is hardly the place to make the case, my opinions on the book have become more negative and I no longer think that Fine's treatment of trans people in that book was accidental.
 
