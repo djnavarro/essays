@@ -6,7 +6,7 @@ summary: "Regarding trans women and male privilege"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-30
-rmd_hash: e29283803d1a64f4
+rmd_hash: dfaf16ffa51e2639
 
 ---
 
@@ -48,13 +48,53 @@ This variability is not disagreement; it is genuine variation. As an example of 
 >
 > I grew up as a relatively "normal boy". I never had any struggles with my gender identity until my late 20s. I was homeschooled. As a child I played Legos with my brother, built tree forts, played sports, rode bikes around the neighborhood, swam all day in the summer, played manhunt, collected random things, played videogames, and was generally a pretty normal boy with normal "boyish" predilections.
 
-From there she goes on to list a lot of male privileges that she once had access to, and which she has been denied now that she has transitioned. She is extremely careful, however, to note that this is a characteristic of her own life and not a general claim about the experiences of trans women. In fact, in 2017 she wrote another [piece](https://transphilosopher.wordpress.com/2017/03/17/there-is-nothing-universal-to-say-about-trans-women-and-male-privilege/) that makes the same overall claim that I want to make, namely, that "there is nothing universal to say about trans women and male privilege":
+From there she goes on to list a lot of male privileges that she once had access to, and which she has been denied now that she has transitioned. She is extremely careful, however, to note that this is a characteristic of her own life and not a general claim about the experiences of trans women. In fact, in 2017 she wrote another [piece](https://transphilosopher.wordpress.com/2017/03/17/there-is-nothing-universal-to-say-about-trans-women-and-male-privilege/) that makes the same overall claim that I want to make, namely that "there is nothing universal to say about trans women and male privilege":
 
 > \[M\]y experience says nothing about the experiences of other trans women, who experienced their gender much differently than I did as a child and as I do now. I was never really made fun of for being feminine -- my feminine behaviors were done in secret behind closed doors and so they weren't a target for harassment. I was able to regiment my personality into a public boyish self and a private feminine self. It's a myth that gender identity is formed for life within the first 5 years of life. While that might be true for many people it is not a universal truth. My gender identity has evolved significantly since I was 5 years old and I know I am not alone though I have the feeling that many trans people have a bias towards interpreting their memories as having an earlier identity because that narrative is seen as "more valid" than the ones where gender identity evolution occurs later in life.
 >
 > Not all young trans girls are able to hide their natural femininity and they are brutalized for it. If someone went through that experience and they are telling you they did not have male privilege then I believe it's epistemically best practice to heed what they are saying and take their narrative seriously. Likewise if a trans woman says she used to have male privilege but has since given most of it up, we need to listen to that narrative as well.
 
+To this I have little to add. She is exactly correct: some trans women *have* had the privilege of growing up in a cultural milieu that accorded them male privileges, and were conferred advantages over their cisgender counterparts. Other trans women have not.
+
+<p align="center">
+::: :::
+</p>
+
+Historically, the mere existence of trans women has been deemed a threat to the moral and political order in a fashion that is completely incommensurate to our actual influence on the world. So much so that, as Susan Stryker notes in [*Transgender History*](https://www.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X) "the most familiar photo of Nazi book burning depicts Hirschfeld's library of materials on sexual diversity going up in flames", [Magnus Hirschfeld](https://en.wikipedia.org/wiki/Magnus_Hirschfeld) being the author of *The Transvestites*, the first book-length discussion of transgender people, written in 1910. Now of course, it is entirely possible that even in that social world trans women might somehow have benefitted from male privilege, but it ought not seem implausible that the lives of trans women and cis men were drastically different in such a world. The moral panic that surrounds and envelops our lives from the moment a trans girl begins to express femininity (or indeed, begins to desire to express femininity) means that our lives are very, very different to those of other male-assigned people. For so very many of us, *fear* is the dominating emotion of our lives from the start.
+
+To pivot to more modern examples, consider the plight of "Bradley" described in this [2008 piece by NPR](https://www.npr.org/2008/05/07/90247842/two-families-grapple-with-sons-gender-preferences). From very early childhood he[^2] behaved in feminine ways, preferring the company of girls and so forth. The "therapy" to which he was subjected began because even as a young child he was already a target for male violence:
+
+> It was a single event that transformed her vague sense of worry into something more serious. One day, Bradley came home from an outing at the local playground with his baby sitter. He was covered in blood. A gash on his forehead ran deep into his hairline.
+>
+> "What had happened was that two 10-year-old boys had thrown him off some playground equipment across the pavement because he'd been playing with a Barbie doll -- and they called him a girl," Carol says. "So that sort of struck me, that, you know, if he doesn't learn to socialize with both males and females ... he was going to get hurt."
+
+This was my experience as a child. Sometimes I was beaten for my expression of femininity, but mostly I withdrew from the world. Fear of male violence meant that I learned to suppress every natural impulse I had, and I lived in terror through my childhood and teenage years. By the time I reached my 20s I was unable even to articulate the source of this fear, and it was not until my mid 30s that I had begun to make sense of why I have been utterly terrified -- mostly of men -- for my entire life. Even so I count myself lucky. Nobody, not even my parents, discovered my secret stash of girl things, and thankfully I was never referred to a "therapist" like Ken Zucker. I cannot work out any way to paraphrase what he did to this child, so here's a longer description from NPR:
+
+> So, to treat Bradley, Zucker explained to Carol that she and her husband would have to radically change their parenting. Bradley would no longer be allowed to spend time with girls. He would no longer be allowed to play with girlish toys or pretend that he was a female character. Zucker said that all of these activities were dangerous to a kid with gender identity disorder. He explained that unless Carol and her husband helped the child to change his behavior, as Bradley grew older, he likely would be rejected by both peer groups. Boys would find his feminine interests unappealing. Girls would want more boyish boys. Bradley would be an outcast.
+>
+> Carol resolved to do her best. Still, these were huge changes. By the time Bradley started therapy he was almost 6 years old, and Carol had a house full of Barbie dolls and Polly Pockets. She now had to remove them. To cushion the blow, she didn't take the toys away all at once; she told Bradley that he could choose one or two toys a day.
+>
+> "In the beginning, he didn't really care, because he'd picked stuff he didn't play with," Carol says. "But then it really got down to the last few."
+>
+> As his pile of toys dwindled, Carol realized Bradley was hoarding. She would find female action figures stashed between couch pillows. Rainbow unicorns were hidden in the back of Bradley's closet. Bradley seemed at a loss, she said. They gave him male toys, but he chose not to play at all.
+>
+> "He turned to coloring and drawing, and he just simply wouldn't play with anything. And he would color and draw for hours and hours and hours. And that would be all he did in a day," Carol says. "I think he was really lost. ... The whole way that he knew and understood how to play was just sort of, you know, removed from his house."
+>
+> His drawings, however, also proved problematic. Bradley would populate his pictures with the toys and interests he no longer had access to -- princesses with long flowing hair, fairies in elaborate dresses, rainbows of pink and purple and pale yellow. So, under Zuckers direction, Carol and her husband sought to change this as well.
+>
+> "We would ask him, 'Can you draw a boy for us? Can you draw a boy in that picture?' ... And then he didn't really want us to see his drawings or watch him drawing because we would always say 'Can you draw a boy?'" Carol says. "And then finally after, I don't know, a month or two, he just said, 'Momma, I don't know how. ... I don't know how to draw a boy.'"
+>
+> Carol says she finally sat down and showed him. From then on, Bradley drew boys as directed. Male figures with anemic caps of hair on their heads filled the pages of his sketchbook.
+
+Does this honestly seem like a description of male privilege? To me it sounds like torture. By virtue of their femininity, trans girls and feminine boys often grow up in a world of constant terror and violence. When you live in a world like this, the privileges that you might otherwise have been accorded by virtue of being male-assigned quickly become inaccessible to you. In other words, male privileges are revocable, and for many trans women, those privileges are revoked from the very beginning of our lives.
+
+<p align="center">
+::: :::
+</p>
+
 <br><br><br>
 
 [^1]: This does not need to be a causal claim about the origins of transgender identities, incidentally. Everything I have to say in this essay would still be completely true even if the only reason why trans women are different from cis men prior transition is that we are [conditioning on a collider](https://en.wikipedia.org/wiki/Collider_(statistics)). The only thing that is relevant is that trans women are, purely by virtue of being trans women, a *highly* unrepresentative subset of male-assigned people: this in itself is a reason for taking care in how one generalises from cisgender men to transgender women.
+
+[^2]: I have chosen to adhere to the same pronouns used in the NPR article simply because I have no idea whether Bradley later transitioned. For the purposes of this essay, it isn't actually important, because the point I am trying to make is that the socialisation that *both* feminine boys and trans girls tend to receive is unremittingly violent and cruel, and is in no sense of the term "male privilege".
 
