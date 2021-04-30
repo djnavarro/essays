@@ -6,7 +6,7 @@ summary: "Regarding trans women and male privilege"
 author: "Danielle Navarro"
 tags: []
 date: 2021-04-30
-rmd_hash: dfaf16ffa51e2639
+rmd_hash: 3740af9b39ed1d81
 
 ---
 
@@ -86,11 +86,23 @@ This was my experience as a child. Sometimes I was beaten for my expression of f
 >
 > Carol says she finally sat down and showed him. From then on, Bradley drew boys as directed. Male figures with anemic caps of hair on their heads filled the pages of his sketchbook.
 
-Does this honestly seem like a description of male privilege? To me it sounds like torture. By virtue of their femininity, trans girls and feminine boys often grow up in a world of constant terror and violence. When you live in a world like this, the privileges that you might otherwise have been accorded by virtue of being male-assigned quickly become inaccessible to you. In other words, male privileges are revocable, and for many trans women, those privileges are revoked from the very beginning of our lives.
+Does this honestly seem like a description of male privilege? To me it sounds like torture. By virtue of their femininity, trans girls and feminine boys often grow up in a world of constant terror and violence. When you live in a world like this, the privileges that you might otherwise have been accorded by virtue of being male-assigned quickly become inaccessible to you. In other words, male privileges are revocable, and for a great many trans women, those privileges are revoked from the very beginning of our lives.
 
 <p align="center">
 ::: :::
 </p>
+
+I suppose I should say something about my own experiences. As I mentioned at the start of the post, my answer about my own life is "it's complicated". There are some forms of male privilege I was unequivocally accorded from the beginning, and I only started to lose them once I transitioned. One of the more obvious ones is that I was considered to be a suitable person to study technical subjects. I was never subjected to the "girls are bad at maths" stereotype, and it's only post-transition that I've had to deal with men insulting my mathematical abilities. That is a form of male privilege, and one that I benefitted from considerably.
+
+The right to bodily autonomy, on the other hand, is one that I never really had. While it is obviously true that all transgender people lose this privilege the moment we seek to transition -- our lives and bodies being subject to the whims of legislators, doctors, and everyone who thinks they have some entitlement to know every detail about our genitalia -- it is not always obvious to cis folks that trans women can lose our bodily autonomy before this point in time. In my case, one of the hardest things I've had to come to terms with is that my "male" socialisation left me vulnerable to rape in a way that has a lot more in common with cis women than cis men. I don't particularly want to talk about the details, but the short version is that the violent gender policing I endured when I was young left me unable to assert boundaries: to avoid violence, I would freeze any time I perceived a threat. I never fought back, never protested, I just... accepted whatever treatment I was given. So when I became sexually active, is it any surprise that one of my very first sexual experiences was coercive rape? To me that doesn't seem a surprise at all: rather, it was an almost inevitable consequence of how I was socialised. In some respects, I would argue that I was *more* vulnerable to coercive rape than a cis woman might have been. At a bare minimum cis women are taught that rape is an actual threat, and they learn safety measures as a survival mechanism. I didn't even see it coming: nothing in my life taught me to listen to my own fears, and the consequences of that were shattering.
+
+<p align="center">
+::: :::
+</p>
+
+I started this post with a resigned conviction that nothing I write here will make a difference. This has all been a waste of time. It will change no minds. It will solve no problems. As I reach the end of the post, my feelings are unchanged. There is nothing I could have written here that will stop this frustrating debate from coming up again. It will cross my path again and again, because cisgender people have opinions about gender and they do not listen to transgender people when we try to speak. So if my goal in writing this had really been to speak to cisgender people, it would have been a completely pointless effort. However, I am long past the point of thinking that I write these pieces for the benefit of cisgender people. To my mind, cisgender people are a lost cause in that respect. They will do whatever they want, believe what they want. Instead, my real audience here is my past self and my trans sisters. I spent years trying to make sense of this question, and it was not worth it. Toni Morrison was right about racism: it functions as a distraction, it prevents people of colour from living their lives and there will *always* be more white nonsense to deal with. So it is with transmisogyny: there will always be another thing because inventing spurious moral panics about us is just what cisgender people do.
+
+None of this is necessary. Don't waste your time on this nonsense.
 
 <br><br><br>
 
