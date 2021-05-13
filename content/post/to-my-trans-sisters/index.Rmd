@@ -1,0 +1,20 @@
+---
+output: hugodown::md_document
+title: "To my trans sisters"
+type: "post"
+summary: "Some thoughts for a younger version of myself"
+author: "Danielle Navarro"
+tags: []
+date: 2021-05-12
+---
+
+My very favourite book about trans women is [To My Trans Sisters](https://www.amazon.com/My-Trans-Sisters-Charlie-Craggs/dp/1785923439), a collection of letters written by trans women, and edited by [Charlie Craggs](https://en.wikipedia.org/wiki/Charlie_Craggs). The premise is simple: the contributors are asked to write a letter to other trans women who may not yet be very far along transition, and who might appreciate the kind of advice one would get from an older sister. Not surprisingly, the letters are idiosyncratic, with each author telling a different story and sharing different thoughts about her life and the lives of trans women generally. It came out in 2017, at a point quite early in my own transition, and more than any other book I read it helped me come to terms with the strangeness of my own situation and the nature of my fears.
+
+Almost four years later, I find myself in another strange place: I'm one of the more prominent transgender people in my field, and though I'm still navigating aspects to my own transition, I now get asked to give advice to others about transgender issues. A small but steady stream of questions flows through my inbox. Sometimes it's a cisgender person asking what they can do to support trans people, other times it's someone who sees my life as a debate topic who just wants an argument. I usually ignore those. I'm tired of talking to cisgender people about transgender lives. Even when they have nothing but the best of intentions, it's emotionally draining to have to revisit my worst experiences, my fears, my losses. I'm no different to anyone else: I have limited cognitive and emotional resources, and I'd like to spend them on something other than this. 
+
+There are some messages I do try to reply to, however, even though it hurts. Those are the ones from other trans people, usually other trans women, sometimes in academia. I read these emails and every time am taken aback by the sense of familiarity I feel. Each time I think to myself *"oh my god this sounds so much like me -- I could have written this"*. Then I wonder, what can I say to her? What advice can I give? I don't feel very competent to give advice, but I try my best and I hope that it helps. This piece is my own version of one of those letters, a variation on so many emails I've sent to other people like myself. It's what I would write if there were ever a version of Charlie Craggs' book for trans women in academia. 
+
+<p align="center">::::::</p>
+
+To my trans sister,
+
