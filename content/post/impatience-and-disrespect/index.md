@@ -6,7 +6,7 @@ summary: "What happened to the nice lady?"
 author: "Danielle Navarro"
 tags: []
 date: 2021-05-21
-rmd_hash: 3047b83dec17e4a2
+rmd_hash: a9c2d811856b6f16
 
 ---
 
@@ -39,6 +39,8 @@ If you are a cisgender person who wants to have an academic discussion about the
 If you want to know what happened to my patience, the answer boils down to a simple question of power. Transgender people have little power: we have no authority, no institutional leverage, and the world has not been set up in our favour. We have suffered life long abuse, and these discussions are deeply personal. None of this is a politics game to us, none of it is an abstraction. Historically we have lived at the margins of society, and right now -- in the real world rather than the fevered imaginations of bigots -- there is a massive political fight over our lives that we didn't start. We didn't ask for this. All we want, all we have ever wanted, is to be able to live our lives in peace, with a modicum of safety and dignity. It is not transgender people passing laws targeting cisgender people. It is not transgender people subjecting cisgender people to dehumanising debates about what they are. It is not transgender people trying to force people to live like us. It is you. Cisgender people are doing all those things to us, and you expect us to be *nice* to you as well? To debate you? Do you expect us to greet you with roses? To be calm and reasoned while you hold a knife to our throats? I don't think so.
 
 It is easy to be calm and patient when you are safe, when you are the one with power. When I teach my classes, parent my children, or help novices with R, I am the one with power. In those situations I am calm, I am patient, and I am nice. When you want to have a cute little philosophical discussion about transgender lives and identities, I am not the one with power. On the contrary, it is you asking me to participate in a debate while holding my human rights hostage. No, I will not be nice to you while your boot is on my neck. I tried that already, in the hope that you'd remove the boot voluntarily. You haven't done that. I will not waste my energy treating you with a respect that you don't accord me.
+
+I am angry, and I don't know what to do with that.
 
 <br><br>
 
